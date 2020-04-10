@@ -1,442 +1,1154 @@
-[00:00:27] [Server thread/INFO]: galopes has made the advancement [Isn't It Iron Pick]
-[00:01:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[00:01:43] [Server thread/INFO]: [branquinho: Teleported branquinho to MeNEIzes]
-[00:02:01] [Server thread/INFO]: [zeboi: Teleported zeboi to MeNEIzes]
-[00:02:48] [Server thread/INFO]: [zeboi: Teleported zeboi to MeNEIzes]
-[00:03:30] [Server thread/INFO]: branquinho suffocated in a wall
-[00:03:35] [Server thread/INFO]: [branquinho: Teleported branquinho to MeNEIzes]
-[00:03:45] [Server thread/INFO]: MeNEIzes didn't want to live in the same world as branquinho
-[00:03:45] [Server thread/INFO]: [branquinho: Killed MeNEIzes]
-[00:03:51] [Server thread/INFO]: [MeNEIzes: Teleported MeNEIzes to branquinho]
-[00:04:15] [Server thread/WARN]: MeNEIzes moved too quickly! 8.27240056841947,0.0,5.731165629204753
-[00:04:19] [Server thread/INFO]: branquinho has made the advancement [Not Today, Thank You]
-[00:04:54] [Server thread/WARN]: MeNEIzes moved too quickly! 9.896958082353194,-2.0,-0.068923212597781
-[00:04:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2429ms or 48 ticks behind
-[00:05:17] [Server thread/INFO]: <BurtiZ> mete de dia sff
-[00:05:23] [Server thread/INFO]: [branquinho: Set the time to 1000]
-[00:05:35] [Server thread/INFO]: [MeNEIzes: Set the weather to clear]
-[00:05:39] [Server thread/INFO]: <BurtiZ> ainda ta denoite
-[00:06:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
-[00:06:01] [Server thread/INFO]: [branquinho: Teleported branquinho to MeNEIzes]
-[00:06:11] [Server thread/INFO]: [zeboi: Teleported zeboi to MeNEIzes]
-[00:06:32] [Server thread/INFO]: [zeboi: Teleported zeboi to galopes]
-[00:06:32] [Server thread/WARN]: zeboi moved too quickly! -2219.6335425780208,1.0,161.19170172656894
-[00:08:44] [Server thread/INFO]: [zeboi: Teleported zeboi to branquinho]
-[00:08:44] [Server thread/WARN]: zeboi moved too quickly! 2208.0171220196394,-23.0,-179.858434833811
-[00:09:57] [Server thread/WARN]: MeNEIzes moved too quickly! 8.527722516181257,1.0,-5.172155068917391
-[00:10:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4454ms or 89 ticks behind
-[00:10:12] [Server thread/INFO]: [galopes: Teleported galopes to branquinho]
-[00:11:33] [Server thread/INFO]: [branquinho: Set the weather to clear]
-[00:11:34] [Server thread/INFO]: [MeNEIzes: Set the weather to clear]
-[00:15:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2804ms or 56 ticks behind
-[00:15:53] [Server thread/INFO]: [MeNEIzes: Set the time to 1000]
-[00:15:54] [Server thread/INFO]: branquinho was shot by Skeleton
-[00:16:03] [Server thread/INFO]: [branquinho: Teleported branquinho to zeboi]
-[00:16:46] [Server thread/INFO]: [MeNEIzes: Set the weather to clear]
-[00:17:20] [Server thread/WARN]: MeNEIzes moved too quickly! 4.736342416890238,-1.2315237975870161,-8.973286348506349
-[00:17:32] [Server thread/WARN]: MeNEIzes moved too quickly! 7.740107724499012,-0.9215999984741217,-6.289158602337352
-[00:18:53] [Server thread/INFO]: zeboi burned to death
-[00:19:25] [Server thread/INFO]: galopes burned to death
-[00:20:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2982ms or 59 ticks behind
-[00:20:25] [Server thread/INFO]: [zeboi: Teleported zeboi to branquinho]
-[00:21:09] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/45893, l='world', x=311.87, y=62.00, z=-53.75]
-[00:21:09] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/45893, l='world', x=311.87, y=62.00, z=-53.75]
-[00:22:23] [Server thread/INFO]: [MeNEIzes: Teleported MeNEIzes to 19000.5, 75.0, -530.8689239123382]
-[00:22:49] [Server thread/WARN]: MeNEIzes moved too quickly! 1.5023252621831489,-1.0,9.966485333309151
-[00:22:56] [Server thread/INFO]: [zeboi: Teleported zeboi to branquinho]
-[00:22:56] [Server thread/WARN]: zeboi moved too quickly! 14.411593983560124,-1.0,-10.412438512086467
-[00:23:08] [Server thread/INFO]: [branquinho: Teleported branquinho to MeNEIzes]
-[00:23:08] [Server thread/WARN]: branquinho moved too quickly! 16579.48696824426,48.0,-381.54172706318064
-[00:23:14] [Server thread/WARN]: MeNEIzes moved too quickly! -0.8007340559306613,-2.0784000015258783,9.781532014680351
-[00:23:18] [Server thread/INFO]: [branquinho: Teleported branquinho to zeboi]
-[00:23:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
-[00:23:24] [Server thread/INFO]: [galopes: Teleported galopes to zeboi]
-[00:23:24] [Server thread/WARN]: Fetching packet for removed entity awb['Cobblestone'/47083, l='world', x=2492.24, y=19.00, z=-99.39]
-[00:23:24] [Server thread/WARN]: Fetching packet for removed entity awb['Cobblestone'/47190, l='world', x=2490.88, y=20.26, z=-99.69]
-[00:23:28] [Server thread/INFO]: <BurtiZ> DIA
-[00:23:38] [Server thread/INFO]: [branquinho: Set the weather to clear]
-[00:24:01] [Server thread/WARN]: MeNEIzes was kicked for floating too long!
-[00:24:01] [Server thread/WARN]: MeNEIzes was kicked for floating too long!
-[00:24:01] [Server thread/WARN]: MeNEIzes was kicked for floating too long!
-[00:24:01] [Server thread/WARN]: MeNEIzes was kicked for floating too long!
-[00:24:01] [Server thread/WARN]: MeNEIzes was kicked for floating too long!
-[00:24:01] [Server thread/WARN]: MeNEIzes was kicked for floating too long!
-[00:24:01] [Server thread/WARN]: MeNEIzes was kicked for floating too long!
-[00:24:01] [Server thread/WARN]: MeNEIzes was kicked for floating too long!
-[00:24:01] [Server thread/WARN]: MeNEIzes was kicked for floating too long!
-[00:24:01] [Server thread/WARN]: MeNEIzes was kicked for floating too long!
-[00:24:01] [Server thread/WARN]: MeNEIzes was kicked for floating too long!
-[00:24:01] [Server thread/WARN]: MeNEIzes was kicked for floating too long!
-[00:24:01] [Server thread/WARN]: MeNEIzes was kicked for floating too long!
-[00:24:01] [Server thread/WARN]: MeNEIzes was kicked for floating too long!
-[00:24:01] [Server thread/WARN]: MeNEIzes was kicked for floating too long!
-[00:24:01] [Server thread/WARN]: MeNEIzes was kicked for floating too long!
-[00:24:01] [Server thread/WARN]: MeNEIzes was kicked for floating too long!
-[00:24:01] [Server thread/WARN]: MeNEIzes was kicked for floating too long!
-[00:24:01] [Server thread/WARN]: MeNEIzes was kicked for floating too long!
-[00:24:01] [Server thread/WARN]: MeNEIzes was kicked for floating too long!
-[00:24:01] [Server thread/WARN]: MeNEIzes was kicked for floating too long!
-[00:24:02] [Server thread/WARN]: MeNEIzes was kicked for floating too long!
-[00:24:02] [Server thread/WARN]: MeNEIzes was kicked for floating too long!
-[00:24:02] [Server thread/WARN]: MeNEIzes was kicked for floating too long!
-[00:24:02] [Server thread/WARN]: MeNEIzes was kicked for floating too long!
-[00:24:02] [Server thread/WARN]: MeNEIzes was kicked for floating too long!
-[00:24:02] [Server thread/WARN]: MeNEIzes was kicked for floating too long!
-[00:24:02] [Server thread/WARN]: MeNEIzes was kicked for floating too long!
-[00:24:02] [Server thread/WARN]: MeNEIzes was kicked for floating too long!
-[00:24:02] [Server thread/WARN]: MeNEIzes was kicked for floating too long!
-[00:24:02] [Server thread/WARN]: MeNEIzes was kicked for floating too long!
-[00:24:02] [Server thread/WARN]: MeNEIzes was kicked for floating too long!
-[00:24:02] [Server thread/WARN]: MeNEIzes was kicked for floating too long!
-[00:24:02] [Server thread/WARN]: MeNEIzes was kicked for floating too long!
-[00:24:02] [Server thread/WARN]: MeNEIzes was kicked for floating too long!
-[00:24:02] [Server thread/WARN]: MeNEIzes was kicked for floating too long!
-[00:24:02] [Server thread/WARN]: MeNEIzes was kicked for floating too long!
-[00:24:02] [Server thread/WARN]: MeNEIzes was kicked for floating too long!
-[00:24:02] [Server thread/WARN]: MeNEIzes was kicked for floating too long!
-[00:24:02] [Server thread/WARN]: MeNEIzes was kicked for floating too long!
-[00:24:03] [Server thread/WARN]: MeNEIzes was kicked for floating too long!
-[00:24:03] [Server thread/WARN]: MeNEIzes was kicked for floating too long!
-[00:24:03] [Server thread/WARN]: MeNEIzes was kicked for floating too long!
-[00:24:03] [Server thread/WARN]: MeNEIzes was kicked for floating too long!
-[00:24:03] [Server thread/WARN]: MeNEIzes was kicked for floating too long!
-[00:24:03] [Server thread/WARN]: MeNEIzes was kicked for floating too long!
-[00:24:03] [Server thread/WARN]: MeNEIzes was kicked for floating too long!
-[00:24:03] [Server thread/WARN]: MeNEIzes was kicked for floating too long!
-[00:24:03] [Server thread/WARN]: MeNEIzes was kicked for floating too long!
-[00:24:03] [Server thread/WARN]: MeNEIzes was kicked for floating too long!
-[00:24:03] [Server thread/WARN]: MeNEIzes was kicked for floating too long!
-[00:24:03] [Server thread/WARN]: MeNEIzes was kicked for floating too long!
-[00:24:03] [Server thread/WARN]: MeNEIzes was kicked for floating too long!
-[00:24:03] [Server thread/WARN]: MeNEIzes was kicked for floating too long!
-[00:24:03] [Server thread/WARN]: MeNEIzes was kicked for floating too long!
-[00:24:03] [Server thread/WARN]: MeNEIzes was kicked for floating too long!
-[00:24:03] [Server thread/WARN]: MeNEIzes was kicked for floating too long!
-[00:24:03] [Server thread/WARN]: MeNEIzes was kicked for floating too long!
-[00:24:03] [Server thread/WARN]: MeNEIzes was kicked for floating too long!
-[00:24:03] [Server thread/WARN]: MeNEIzes was kicked for floating too long!
-[00:24:03] [Server thread/WARN]: MeNEIzes was kicked for floating too long!
-[00:24:04] [Server thread/WARN]: MeNEIzes was kicked for floating too long!
-[00:24:04] [Server thread/WARN]: MeNEIzes was kicked for floating too long!
-[00:24:04] [Server thread/WARN]: MeNEIzes was kicked for floating too long!
-[00:24:04] [Server thread/WARN]: MeNEIzes was kicked for floating too long!
-[00:24:04] [Server thread/WARN]: MeNEIzes was kicked for floating too long!
-[00:24:04] [Server thread/WARN]: MeNEIzes was kicked for floating too long!
-[00:24:04] [Server thread/WARN]: MeNEIzes was kicked for floating too long!
-[00:24:04] [Server thread/WARN]: MeNEIzes was kicked for floating too long!
-[00:24:04] [Server thread/WARN]: MeNEIzes was kicked for floating too long!
-[00:24:04] [Server thread/WARN]: MeNEIzes was kicked for floating too long!
-[00:24:04] [Server thread/WARN]: MeNEIzes was kicked for floating too long!
-[00:24:04] [Server thread/WARN]: MeNEIzes was kicked for floating too long!
-[00:24:04] [Server thread/WARN]: MeNEIzes was kicked for floating too long!
-[00:24:04] [Server thread/WARN]: MeNEIzes was kicked for floating too long!
-[00:24:04] [Server thread/INFO]: MeNEIzes lost connection: Flying is not enabled on this server
-[00:24:04] [Server thread/INFO]: MeNEIzes left the game
-[00:24:14] [Server thread/INFO]: MeNEIzes[/25.16.68.110:49423] logged in with entity id 47651 at (19154.008483890997, 72.25220334025373, -425.2599179006488)
-[00:24:14] [Server thread/INFO]: MeNEIzes joined the game
-[00:24:36] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 9.455064590991242,-1.0663589371517901E-5,3.406558840142054
-[00:24:36] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 9.731833877758618,-1.0663589371517901E-5,3.6685539316528093
-[00:24:36] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 9.999947613669065,-1.0663589371517901E-5,3.939535563813706
-[00:24:36] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 10.259674921999249,-1.0663589371517901E-5,4.218921076369725
-[00:24:36] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 10.511314537521685,-1.0663589371517901E-5,4.506145152791419
-[00:24:36] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 10.755186492111534,-1.0663589371517901E-5,4.800664146949032
-[00:24:36] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 10.991624233189214,-1.0663589371517901E-5,5.101959377347725
-[00:24:36] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 11.220970709848189,-1.0663589371517901E-5,5.409537968523637
-[00:24:36] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 11.443571147443436,-1.0663589371517901E-5,5.722934848821808
-[00:24:36] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 11.659773375027726,-1.0663589371517901E-5,6.041711106228377
-[00:25:07] [Server thread/INFO]: [branquinho: Teleported branquinho to MeNEIzes]
-[00:25:07] [Server thread/WARN]: branquinho moved too quickly! 16747.62546609937,48.0,-232.69827209155713
-[00:25:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3471ms or 69 ticks behind
-[00:25:12] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=19253, y=66, z=-323} fk{x=19252, y=72, z=-329}
-[00:25:41] [Server thread/INFO]: [galopes: Teleported galopes to branquinho]
-[00:25:45] [Server thread/INFO]: [zeboi: Teleported zeboi to branquinho]
-[00:26:12] [Server thread/INFO]: [branquinho: Teleported branquinho to BurtiZ]
-[00:26:12] [Server thread/WARN]: branquinho moved too quickly! -18938.66360352581,7.0,294.64770883579325
-[00:26:18] [Server thread/INFO]: [MeNEIzes: Set the time to 1000]
-[00:26:49] [Server thread/INFO]: <BurtiZ> HA FIOS DE ARANHA?
-[00:26:50] [Server thread/WARN]: MeNEIzes moved too quickly! -3.9601141244202154,-0.32486510296786264,-9.3465148770253
-[00:27:19] [Server thread/INFO]: <BurtiZ> DA PARA FAZER DEGRAU DE LA?
-[00:28:28] [Server thread/WARN]: MeNEIzes moved too quickly! 10.068815045589872,0.41999998688697815,-0.6525938978838894
-[00:28:49] [Server thread/INFO]: [MeNEIzes: Set the weather to clear]
-[00:29:49] [Server thread/INFO]: [galopes: Teleported galopes to BurtiZ]
-[00:30:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2642ms or 52 ticks behind
-[00:31:07] [Server thread/INFO]: zeboi has made the advancement [Diamonds!]
-[00:31:25] [Server thread/INFO]: [branquinho: Teleported branquinho to zeboi]
-[00:31:25] [Server thread/WARN]: branquinho moved too quickly! 18943.58609874715,-3.0,-304.99253178410646
-[00:32:02] [Server thread/INFO]: [galopes: Teleported galopes to branquinho]
-[00:32:38] [Server thread/INFO]: [galopes: Teleported galopes to zeboi]
-[00:32:52] [Server thread/INFO]: [galopes: Teleported galopes to zeboi]
-[00:33:15] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=19262, y=75, z=-298} fk{x=19262, y=74, z=-299}
-[00:33:54] [Server thread/INFO]: [zeboi: Teleported zeboi to branquinho]
-[00:34:05] [Server thread/INFO]: [MeNEIzes: Set the weather to clear]
-[00:34:12] [Server thread/INFO]: [branquinho: Set the weather to clear]
-[00:34:17] [Server thread/INFO]: [BurtiZ: Teleported BurtiZ to galopes]
-[00:34:17] [Server thread/WARN]: BurtiZ moved too quickly! 19125.230813428057,-8.988071701780385,-381.24369948832356
-[00:34:41] [Server thread/INFO]: [BurtiZ: Teleported BurtiZ to zeboi]
-[00:34:41] [Server thread/WARN]: BurtiZ moved too quickly! -74.42498465551034,5.0,23.311179981958844
-[00:34:51] [Server thread/INFO]: <BurtiZ> ta alguem em casa
-[00:35:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3580ms or 71 ticks behind
-[00:35:23] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=19397, y=72, z=-729} fk{x=19397, y=71, z=-729}
-[00:35:24] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=19397, y=72, z=-730} fk{x=19398, y=71, z=-729}
-[00:35:24] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=19396, y=72, z=-731} fk{x=19398, y=71, z=-729}
-[00:35:24] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=19396, y=72, z=-731} fk{x=19398, y=71, z=-729}
-[00:35:24] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=19395, y=72, z=-731} fk{x=19398, y=71, z=-729}
-[00:35:24] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=19397, y=72, z=-731} fk{x=19396, y=71, z=-732}
-[00:35:24] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=19398, y=72, z=-730} fk{x=19396, y=71, z=-732}
-[00:35:24] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=19399, y=72, z=-729} fk{x=19399, y=71, z=-730}
-[00:35:24] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=19399, y=72, z=-730} fk{x=19400, y=71, z=-730}
-[00:35:24] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=19399, y=72, z=-730} fk{x=19400, y=71, z=-730}
-[00:35:24] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=19400, y=72, z=-730} fk{x=19400, y=71, z=-731}
-[00:35:56] [Server thread/INFO]: <BurtiZ> alguem q va para casa pls
-[00:36:03] [Server thread/INFO]: <BurtiZ> preciso de ir la
-[00:36:09] [Server thread/INFO]: BurtiZ fell out of the world
-[00:36:09] [Server thread/INFO]: [branquinho: Killed BurtiZ]
-[00:36:23] [Server thread/INFO]: <BurtiZ> n fiquei em casa
-[00:36:32] [Server thread/WARN]: MeNEIzes moved too quickly! 9.928928072127746,2.0,-0.4023889201818065
-[00:36:33] [Server thread/INFO]: <BurtiZ> vou para a aldeia
-[00:36:37] [Server thread/INFO]: <galopes> metam de dia crl
-[00:36:46] [Server thread/INFO]: [branquinho: Set the weather to clear]
-[00:36:50] [Server thread/INFO]: [branquinho: Set the time to 1000]
-[00:37:05] [Server thread/INFO]: [branquinho: Teleported branquinho to BurtiZ]
-[00:37:05] [Server thread/WARN]: branquinho moved too quickly! -18943.706636952822,-6.0,261.51054245714687
-[00:37:07] [Server thread/WARN]: MeNEIzes moved too quickly! 5.168402554030763,-9.25376447367438,-0.6243600229455524
-[00:37:15] [Server thread/WARN]: MeNEIzes moved too quickly! 9.38269754916837,2.166394404071333,-3.158224554870344
-[00:37:43] [Server thread/INFO]: [zeboi: Teleported zeboi to branquinho]
-[00:37:43] [Server thread/WARN]: zeboi moved too quickly! -18885.88500392254,-8.0,269.6016608326894
-[00:40:23] [Server thread/WARN]: BurtiZ moved too quickly! -0.009747711202521714,1.0013359791121417,10.069888002966294
-[00:40:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5042ms or 100 ticks behind
-[00:40:43] [Server thread/INFO]: [BurtiZ: Teleported BurtiZ to zeboi]
-[00:40:43] [Server thread/WARN]: BurtiZ moved too quickly! 147.56471354557306,-7.0,-147.16547004568855
-[00:41:10] [Server thread/INFO]: MeNEIzes has made the advancement [Ol' Betsy]
-[00:41:31] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/56826, l='world', x=311.00, y=63.00, z=-51.67]
-[00:41:31] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/56826, l='world', x=311.00, y=63.00, z=-51.67]
-[00:41:31] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/56826, l='world', x=311.00, y=63.00, z=-51.67]
-[00:41:44] [Server thread/INFO]: MeNEIzes lost connection: Disconnected
-[00:41:44] [Server thread/INFO]: MeNEIzes left the game
-[00:42:15] [Server thread/INFO]: MeNEIzes[/25.16.68.110:49540] logged in with entity id 57107 at (19799.286104655956, 67.0, -496.4387069346176)
-[00:42:15] [Server thread/INFO]: MeNEIzes joined the game
-[00:42:18] [Server thread/INFO]: [galopes: Teleported galopes to branquinho]
-[00:42:18] [Server thread/WARN]: Fetching packet for removed entity akw['Experience Orb'/57292, l='world', x=337.25, y=66.37, z=-8.34]
-[00:42:27] [Server thread/INFO]: [MeNEIzes: Set the weather to clear]
-[00:42:33] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/57464, l='world', x=311.45, y=63.00, z=-51.80]
-[00:42:33] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/57464, l='world', x=311.45, y=63.00, z=-51.80]
-[00:42:33] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/57464, l='world', x=311.45, y=63.00, z=-51.80]
-[00:42:33] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/57464, l='world', x=311.45, y=63.00, z=-51.80]
-[00:45:18] [Server thread/INFO]: [MeNEIzes: Removed 460 items from player MeNEIzes]
-[00:45:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2317ms or 46 ticks behind
-[00:47:22] [Server thread/INFO]: [branquinho: Teleported branquinho to MeNEIzes]
-[00:47:35] [Server thread/INFO]: [branquinho: Teleported branquinho to zeboi]
-[00:47:41] [Server thread/INFO]: [branquinho: Set the time to 1000]
-[00:47:45] [Server thread/INFO]: [branquinho: Set the weather to clear]
-[00:47:52] [Server thread/WARN]: galopes moved wrongly!
-[00:50:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
-[00:50:35] [Server thread/WARN]: MeNEIzes moved wrongly!
-[00:50:59] [Server thread/INFO]: [branquinho: Teleported branquinho to zeboi]
-[00:51:27] [Server thread/INFO]: <BurtiZ> enxadar aahahaha
-[00:51:31] [Server thread/INFO]: <galopes> xD
-[00:51:39] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/62390, l='world', x=312.80, y=62.00, z=-52.68]
-[00:51:39] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/62390, l='world', x=312.80, y=62.00, z=-52.68]
-[00:51:39] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/62390, l='world', x=312.80, y=62.00, z=-52.68]
-[00:51:54] [Server thread/INFO]: branquinho has made the advancement [A Seedy Place]
-[00:52:11] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/62568, l='world', x=309.67, y=62.00, z=-56.78]
-[00:52:11] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/62568, l='world', x=309.67, y=62.00, z=-56.78]
-[00:52:11] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/62568, l='world', x=309.67, y=62.00, z=-56.78]
-[00:52:41] [Server thread/INFO]: [zeboi: Teleported zeboi to galopes]
-[00:52:41] [Server thread/WARN]: zeboi moved too quickly! -388.47673781544296,10.0,-152.17691960368873
-[00:52:53] [Server thread/INFO]: [zeboi: Teleported zeboi to branquinho]
-[00:53:32] [Server thread/INFO]: [zeboi: Set the weather to clear]
-[00:53:33] [Server thread/INFO]: [branquinho: Set the weather to clear]
-[00:54:26] [Server thread/INFO]: <BurtiZ> o galinheiro onde fica
-[00:54:39] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/64711, l='world', x=310.96, y=62.00, z=-53.37]
-[00:54:39] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/64711, l='world', x=310.96, y=62.00, z=-53.37]
-[00:54:39] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/64711, l='world', x=310.96, y=62.00, z=-53.37]
-[00:54:39] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/64711, l='world', x=310.96, y=62.00, z=-53.37]
-[00:54:41] [Server thread/INFO]: <BurtiZ> mas é para ficar ali?
-[00:55:19] [Server thread/INFO]: [branquinho: Teleported branquinho to BurtiZ]
-[00:55:19] [Server thread/WARN]: branquinho moved too quickly! -21.74638237910716,2.0,-26.76699450160111
-[00:55:30] [Server thread/INFO]: [zeboi: Teleported zeboi to BurtiZ]
-[00:55:30] [Server thread/WARN]: MeNEIzes moved too quickly! 3.7569738133279316,-0.2046003784434305,-9.388809729478453
-[00:55:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2620ms or 52 ticks behind
-[00:56:27] [Server thread/WARN]: MeNEIzes moved too quickly! 10.07756586699179,0.0,-0.38668660191274284
-[00:56:49] [Server thread/INFO]: <BurtiZ> onde querem q faça o galinherio?
-[00:56:57] [Server thread/INFO]: <galopes> piscina no roof top
-[00:57:00] [Server thread/INFO]: <BurtiZ> eu tenho jacuzzi no quarto
-[00:57:17] [Server thread/INFO]: <galopes> esta estragado, a agua esta fria
-[00:57:28] [Server thread/INFO]: [branquinho: Set the time to 1000]
-[00:57:32] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/66006, l='world', x=311.99, y=62.00, z=-52.27]
-[00:57:32] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/66006, l='world', x=311.99, y=62.00, z=-52.27]
-[00:57:32] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/66006, l='world', x=311.99, y=62.00, z=-52.27]
-[00:57:32] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/66006, l='world', x=311.99, y=62.00, z=-52.27]
-[00:58:57] [Server thread/INFO]: [zeboi: Set the weather to clear]
-[00:59:32] [Server thread/INFO]: MeNEIzes lost connection: Timed out
-[00:59:32] [Server thread/INFO]: MeNEIzes left the game
-[00:59:37] [Server thread/INFO]: galopes lost connection: Timed out
-[00:59:37] [Server thread/INFO]: galopes left the game
-[00:59:46] [Server thread/INFO]: MeNEIzes[/25.16.68.110:49559] logged in with entity id 66914 at (19827.60220959902, 67.0625, -1887.9195287089285)
-[00:59:46] [Server thread/INFO]: MeNEIzes joined the game
-[00:59:59] [Server thread/INFO]: MeNEIzes was slain by Vindicator
-[01:00:06] [Server thread/FATAL]: Error executing task on Server
-java.lang.NullPointerException: null
-	at ww.b(SourceFile:201) ~[server.jar:?]
-	at wp.a(SourceFile:904) ~[server.jar:?]
-	at xb.a(SourceFile:479) ~[server.jar:?]
-	at xv.a(SourceFile:848) ~[server.jar:?]
-	at qd.a(SourceFile:122) ~[server.jar:?]
-	at qd$a.a(SourceFile:56) ~[server.jar:?]
-	at lv.a(SourceFile:21) ~[server.jar:?]
-	at tb.run(SourceFile:18) ~[server.jar:?]
-	at ais.c(SourceFile:144) [server.jar:?]
-	at aiw.c(SourceFile:23) [server.jar:?]
-	at net.minecraft.server.MinecraftServer.b(SourceFile:743) [server.jar:?]
-	at net.minecraft.server.MinecraftServer.c(SourceFile:138) [server.jar:?]
-	at ais.w(SourceFile:118) [server.jar:?]
-	at net.minecraft.server.MinecraftServer.ba(SourceFile:725) [server.jar:?]
-	at net.minecraft.server.MinecraftServer.w(SourceFile:719) [server.jar:?]
-	at ais.c(SourceFile:127) [server.jar:?]
-	at net.minecraft.server.MinecraftServer.v(SourceFile:704) [server.jar:?]
-	at net.minecraft.server.MinecraftServer.run(SourceFile:659) [server.jar:?]
-	at java.lang.Thread.run(Unknown Source) [?:1.8.0_161]
-[01:00:06] [Server thread/WARN]: MeNEIzes moved wrongly!
-[01:00:15] [Server thread/INFO]: [branquinho: Teleported branquinho to MeNEIzes]
-[01:00:15] [Server thread/WARN]: branquinho moved too quickly! 19491.696002577017,1.8592356006687112,-1883.2503466755697
-[01:00:15] [Server thread/WARN]: branquinho moved too quickly! 19491.696002577017,1.8592356006687112,-1883.2503466755697
-[01:00:32] [Server thread/INFO]: branquinho was slain by Vindicator
-[01:00:41] [Server thread/INFO]: MeNEIzes lost connection: Timed out
-[01:00:42] [Server thread/INFO]: MeNEIzes left the game
-[01:00:49] [Server thread/INFO]: MeNEIzes[/25.16.68.110:49565] logged in with entity id 67366 at (19828.742209659318, 67.85923560066871, -1888.1417207953782)
-[01:00:49] [Server thread/INFO]: MeNEIzes joined the game
-[01:01:22] [Server thread/INFO]: [MeNEIzes: Teleported MeNEIzes to 19824.5, 71.0, -1499.5]
-[01:02:16] [Server thread/INFO]: [MeNEIzes: Teleported MeNEIzes to 19824.5, 70.0, -1919.5]
-[01:03:00] [Server thread/INFO]: MeNEIzes was slain by Vindicator
-[01:03:02] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/68544, l='world', x=311.90, y=62.00, z=-56.80]
-[01:03:02] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/68544, l='world', x=311.90, y=62.00, z=-56.80]
-[01:03:02] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/68544, l='world', x=311.90, y=62.00, z=-56.80]
-[01:03:02] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/68544, l='world', x=311.90, y=62.00, z=-56.80]
-[01:03:35] [Server thread/INFO]: zeboi has made the advancement [A Seedy Place]
-[01:05:05] [Server thread/INFO]: [branquinho: Set the time to 1000]
-[01:05:08] [Server thread/INFO]: [branquinho: Set the weather to clear]
-[01:05:13] [Server thread/INFO]: <BurtiZ> tem madeira da escura?
-[01:07:20] [Server thread/INFO]: [MeNEIzes: Teleported MeNEIzes to 19824.5, 70.0, -1919.5]
-[01:07:30] [Server thread/INFO]: [branquinho: Teleported branquinho to MeNEIzes]
-[01:07:31] [Server thread/WARN]: branquinho moved too quickly! 19522.45449791156,2.0,-1855.8658003169219
-[01:07:40] [Server thread/INFO]: [zeboi: Teleported zeboi to MeNEIzes]
-[01:07:40] [Server thread/WARN]: zeboi moved too quickly! 19521.519905280562,1.0,-1903.7193140285926
-[01:08:08] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/69716, l='world', x=311.87, y=62.00, z=-56.36]
-[01:10:46] [Server thread/INFO]: <BurtiZ> dia
-[01:10:52] [Server thread/INFO]: [branquinho: Set the weather to clear]
-[01:10:57] [Server thread/INFO]: [branquinho: Set the time to 1000]
-[01:11:01] [Server thread/INFO]: zeboi was slain by Wolf
-[01:11:03] [Server thread/INFO]: MeNEIzes was slain by Vex
-[01:11:10] [Server thread/INFO]: [zeboi: Teleported zeboi to MeNEIzes]
-[01:11:10] [Server thread/WARN]: zeboi moved too quickly! 5.313570464793884,7.000000200000002,-6.650299407462288
-[01:11:13] [Server thread/INFO]: [MeNEIzes: Teleported MeNEIzes to branquinho]
-[01:11:24] [Server thread/INFO]: [zeboi: Teleported zeboi to MeNEIzes]
-[01:12:16] [Server thread/INFO]: [branquinho: Teleported branquinho to zeboi]
-[01:12:16] [Server thread/WARN]: branquinho moved too quickly! 36.92300824578342,8.9375,-31.49507635688383
-[01:12:27] [Server thread/INFO]: branquinho was killed by Evoker using magic
-[01:12:34] [Server thread/INFO]: [branquinho: Teleported branquinho to MeNEIzes]
-[01:12:34] [Server thread/WARN]: branquinho moved too quickly! 19588.634359991916,5.0625,-1961.195537505323
-[01:12:55] [Server thread/INFO]: MeNEIzes was slain by Vindicator
-[01:13:04] [Server thread/INFO]: [MeNEIzes: Teleported MeNEIzes to branquinho]
-[01:13:20] [Server thread/INFO]: branquinho was slain by Vex
-[01:13:24] [Server thread/INFO]: [branquinho: Teleported branquinho to MeNEIzes]
-[01:13:24] [Server thread/WARN]: branquinho moved too quickly! 19629.165361762167,7.121296840539202,-1928.8946391044938
-[01:13:34] [Server thread/INFO]: branquinho fell from a high place
-[01:13:38] [Server thread/INFO]: [branquinho: Teleported branquinho to MeNEIzes]
-[01:13:38] [Server thread/WARN]: branquinho moved too quickly! 19616.85789387734,6.0625,-1941.8020776217365
-[01:13:45] [Server thread/INFO]: [branquinho: Teleported branquinho to zeboi]
-[01:13:45] [Server thread/WARN]: branquinho moved too quickly! -35.49310481339853,2.0625,-8.399661734043548
-[01:14:12] [Server thread/INFO]: branquinho was slain by Vindicator
-[01:14:15] [Server thread/INFO]: [branquinho: Teleported branquinho to zeboi]
-[01:14:15] [Server thread/WARN]: branquinho moved too quickly! 19601.80000001192,19.0,-1935.1899340690186
-[01:14:23] [Server thread/INFO]: zeboi hit the ground too hard whilst trying to escape Vindicator
-[01:14:31] [Server thread/INFO]: branquinho was slain by Vindicator
-[01:14:36] [Server thread/INFO]: [branquinho: Teleported branquinho to zeboi]
-[01:14:36] [Server thread/WARN]: branquinho moved too quickly! 82.5141940730226,-4.0,-72.77515898685641
-[01:14:40] [Server thread/INFO]: [zeboi: Teleported zeboi to MeNEIzes]
-[01:15:12] [Server thread/INFO]: MeNEIzes fell from a high place
-[01:15:19] [Server thread/INFO]: [branquinho: Teleported branquinho to zeboi]
-[01:15:19] [Server thread/WARN]: branquinho moved too quickly! 19512.485245671476,12.615713387015234,-1876.837888579091
-[01:15:22] [Server thread/INFO]: zeboi was slain by Vindicator
-[01:15:23] [Server thread/INFO]: [MeNEIzes: Teleported MeNEIzes to zeboi]
-[01:15:29] [Server thread/INFO]: [zeboi: Teleported zeboi to branquinho]
-[01:15:29] [Server thread/WARN]: zeboi moved too quickly! 19519.80677543718,11.999999799999998,-1883.4199342674026
-[01:16:06] [Server thread/INFO]: [branquinho: Set the weather to clear]
-[01:16:52] [Server thread/INFO]: MeNEIzes was blown up by Creeper
-[01:17:06] [Server thread/INFO]: [MeNEIzes: Teleported MeNEIzes to branquinho]
-[01:17:44] [Server thread/INFO]: branquinho was slain by Vex
-[01:17:48] [Server thread/INFO]: [branquinho: Teleported branquinho to MeNEIzes]
-[01:17:48] [Server thread/WARN]: branquinho moved too quickly! 19591.628198206377,6.311687078744683,-1914.768612230646
-[01:17:59] [Server thread/INFO]: MeNEIzes was slain by Vex
-[01:18:15] [Server thread/INFO]: branquinho hit the ground too hard whilst trying to escape Vex
-[01:18:16] [Server thread/INFO]: <BurtiZ> como faço um gate fence?
-[01:18:17] [Server thread/INFO]: <MeNEIzes> anda ajudar
-[01:18:26] [Server thread/INFO]: [branquinho: Teleported branquinho to BurtiZ]
-[01:18:26] [Server thread/WARN]: branquinho moved too quickly! 55.10294633797304,-6.0,-89.69714113402023
-[01:18:27] [Server thread/INFO]: [MeNEIzes: Teleported MeNEIzes to zeboi]
-[01:19:00] [Server thread/INFO]: MeNEIzes was slain by Vex
-[01:19:09] [Server thread/INFO]: zeboi was slain by Vex
-[01:19:25] [Server thread/INFO]: [MeNEIzes: Teleported MeNEIzes to 19824.5, 70.0, -1919.5]
-[01:19:31] [Server thread/INFO]: [MeNEIzes: Teleported branquinho to MeNEIzes]
-[01:19:31] [Server thread/WARN]: branquinho moved too quickly! 19499.185070109856,3.5,-1896.3938711057453
-[01:19:37] [Server thread/INFO]: [MeNEIzes: Teleported zeboi to MeNEIzes]
-[01:19:37] [Server thread/WARN]: zeboi moved too quickly! 19499.262867834925,3.5,-1895.960426758782
-[01:19:44] [Server thread/INFO]: [MeNEIzes: Teleported BurtiZ to MeNEIzes]
-[01:19:44] [Server thread/WARN]: BurtiZ moved too quickly! 19511.81158662452,6.5,-1863.1664185268883
-[01:19:44] [Server thread/WARN]: BurtiZ moved too quickly! 19511.81158662452,6.5,-1863.1664185268883
-[01:20:48] [Server thread/INFO]: <BurtiZ> comida pls
-[01:21:07] [Server thread/INFO]: <BurtiZ> de quem é isto?
-[01:21:11] [Server thread/INFO]: branquinho was slain by Vex
-[01:21:20] [Server thread/INFO]: [branquinho: Teleported branquinho to MeNEIzes]
-[01:21:20] [Server thread/WARN]: branquinho moved too quickly! 19592.352133751505,18.482499986886978,-1892.5913705601868
-[01:21:21] [Server thread/INFO]: [zeboi: Set the weather to clear]
-[01:21:25] [Server thread/INFO]: <BurtiZ> dia
-[01:21:28] [Server thread/INFO]: <BurtiZ> e comida
-[01:21:49] [Server thread/INFO]: [zeboi: Set the time to 1000]
-[01:21:50] [Server thread/INFO]: <BurtiZ> comida
-[01:22:21] [Server thread/INFO]: <BurtiZ> como se faz escudo
-[01:23:22] [Server thread/INFO]: zeboi fell out of the world
-[01:23:22] [Server thread/INFO]: [branquinho: Killed zeboi]
-[01:23:24] [Server thread/INFO]: [branquinho: Teleported branquinho to zeboi]
-[01:23:24] [Server thread/WARN]: branquinho moved too quickly! 40.48613571001988,0.0,-6.607599665989255
-[01:23:24] [Server thread/WARN]: branquinho moved too quickly! 40.48613571001988,0.0,-6.607599665989255
-[01:23:25] [Server thread/WARN]: branquinho moved too quickly! 40.48613571001988,0.0,-6.607599665989255
-[01:23:30] [Server thread/INFO]: [branquinho: Teleported branquinho to zeboi]
-[01:23:30] [Server thread/WARN]: branquinho moved too quickly! -19551.49084593295,-22.0,1860.90217906047
-[01:23:30] [Server thread/WARN]: branquinho moved too quickly! -19551.49084593295,-22.0,1860.90217906047
-[01:23:31] [Server thread/INFO]: [BurtiZ: Teleported BurtiZ to zeboi]
-[01:23:31] [Server thread/WARN]: BurtiZ moved too quickly! -19509.907721736043,-22.0,1848.5156118864013
-[01:23:31] [Server thread/WARN]: BurtiZ moved too quickly! -19509.907721736043,-22.0,1848.5156118864013
-[01:23:42] [Server thread/INFO]: <BurtiZ> como faço gate fence
-[01:23:47] [Server thread/INFO]: <BurtiZ> foi eu q te dei
-[01:23:55] [Server thread/INFO]: <BurtiZ> ey tinha 30
-[01:24:01] [Server thread/INFO]: <BurtiZ> apanhei ontem
-[01:25:52] [Server thread/INFO]: [MeNEIzes: Teleported MeNEIzes to branquinho]
-[01:26:22] [Server thread/INFO]: MeNEIzes lost connection: Disconnected
-[01:26:22] [Server thread/INFO]: MeNEIzes left the game
-[01:26:39] [Server thread/INFO]: [branquinho: Set the weather to clear]
-[01:31:25] [Server thread/INFO]: zeboi lost connection: Disconnected
-[01:31:25] [Server thread/INFO]: zeboi left the game
-[01:32:02] [Server thread/INFO]: <BurtiZ> ja acabei o galinheiro
-[01:32:08] [Server thread/INFO]: <BurtiZ> tb vou bazar
-[01:32:14] [Server thread/INFO]: <BurtiZ> ptt
-[01:32:25] [Server thread/INFO]: <BurtiZ> galineiro
-[01:32:39] [Server thread/INFO]: <BurtiZ> n q fojem
-[01:32:45] [Server thread/INFO]: <BurtiZ> so estetico
-[01:32:51] [Server thread/INFO]: <BurtiZ> xau
-[01:32:53] [Server thread/INFO]: BurtiZ lost connection: Disconnected
-[01:32:53] [Server thread/INFO]: BurtiZ left the game
-[01:33:13] [Server thread/INFO]: branquinho lost connection: Disconnected
-[01:33:13] [Server thread/INFO]: branquinho left the game
-[01:34:11] [Server thread/INFO]: Stopping server
-[01:34:11] [Server thread/INFO]: Saving players
-[01:34:11] [Server thread/INFO]: Saving worlds
-[01:34:11] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[01:34:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:34:12] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[01:34:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:34:12] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[01:34:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:34:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:34:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:34:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:00:19] [Server thread/INFO]: branquinho lost connection: Disconnected
+[00:00:19] [Server thread/INFO]: branquinho left the game
+[00:00:19] [Server thread/INFO]: [MeNEIzes: Kicked branquinho: Kicked by an operator]
+[00:00:19] [Server thread/WARN]: handleDisconnection() called twice
+[00:00:27] [Server thread/INFO]: branquinho[/25.16.242.235:51552] logged in with entity id 4656 at (273.00850917198767, 63.0, -82.10714637461943)
+[00:00:27] [Server thread/INFO]: branquinho joined the game
+[00:00:30] [Server thread/INFO]: [branquinho: Made MeNEIzes no longer a server operator]
+[00:00:37] [Server thread/INFO]: MeNEIzes fell out of the world
+[00:00:37] [Server thread/INFO]: [branquinho: Killed MeNEIzes]
+[00:01:28] [Server thread/INFO]: [branquinho: Made MeNEIzes a server operator]
+[00:02:45] [Server thread/INFO]: [branquinho: Teleported branquinho to galopes]
+[00:02:45] [Server thread/WARN]: branquinho moved too quickly! 1.8999598659073627,0.0,-13.691913527323223
+[00:03:23] [Server thread/INFO]: [branquinho: Teleported branquinho to BurtiZ]
+[00:04:37] [Server thread/INFO]: BurtiZ lost connection: Disconnected
+[00:04:37] [Server thread/INFO]: BurtiZ left the game
+[00:05:09] [Server thread/INFO]: [branquinho: Teleported branquinho to galopes]
+[00:05:09] [Server thread/WARN]: branquinho moved too quickly! -67.79259369345453,-41.0,-32.767243662180576
+[00:07:46] [Server thread/INFO]: BurtiZ[/25.128.236.68:52295] logged in with entity id 7025 at (311.3558691532411, 64.0, -38.22272099522341)
+[00:07:46] [Server thread/INFO]: BurtiZ joined the game
+[00:08:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[00:08:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3955ms or 79 ticks behind
+[00:12:03] [Server thread/INFO]: [branquinho: Set the time to 1000]
+[00:12:58] [Server thread/INFO]: zeboi[/25.24.43.173:54659] logged in with entity id 8924 at (317.9441360860992, 64.0, -18.545953990290684)
+[00:12:58] [Server thread/INFO]: zeboi joined the game
+[00:13:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
+[00:14:39] [Server thread/INFO]: <BurtiZ> é preciso outra cama vermelha
+[00:16:57] [Server thread/INFO]: MeNEIzes has made the advancement [Ice Bucket Challenge]
+[00:18:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
+[00:19:16] [Server thread/INFO]: MeNEIzes tried to swim in lava
+[00:21:10] [Server thread/INFO]: branquinho has made the advancement [Diamonds!]
+[00:21:41] [Server thread/INFO]: <BurtiZ> meteste la a cama no sofa?
+[00:22:13] [Server thread/WARN]: Fetching packet for removed entity awb['Andesite'/12846, l='world', x=219.41, y=12.00, z=-4.13]
+[00:22:30] [Server thread/INFO]: <BurtiZ> tb ha barcos naufragados
+[00:23:00] [Server thread/INFO]: [branquinho: Set the time to 1000]
+[00:23:35] [Server thread/INFO]: [zeboi: Teleported zeboi to branquinho]
+[00:23:35] [Server thread/WARN]: zeboi moved too quickly! -103.57604876531371,-55.0,27.300618499121924
+[00:23:57] [Server thread/INFO]: branquinho burned to death
+[00:24:02] [Server thread/INFO]: [branquinho: Teleported branquinho to zeboi]
+[00:24:02] [Server thread/WARN]: branquinho moved too quickly! -23.35685867145986,-59.0,-38.643734898979794
+[00:24:10] [Server thread/INFO]: [zeboi: Teleported zeboi to BurtiZ]
+[00:24:10] [Server thread/WARN]: zeboi moved too quickly! 110.30125957721552,53.0,-50.54123344320256
+[00:24:21] [Server thread/INFO]: MeNEIzes has made the advancement [We Need to Go Deeper]
+[00:24:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[00:25:31] [Server thread/INFO]: zeboi has made the advancement [We Need to Go Deeper]
+[00:25:37] [Server thread/INFO]: zeboi tried to swim in lava
+[00:26:32] [Server thread/INFO]: zeboi tried to swim in lava
+[00:27:03] [Server thread/INFO]: zeboi tried to swim in lava
+[00:27:44] [Server thread/INFO]: zeboi went up in flames
+[00:27:48] [Server thread/INFO]: [MeNEIzes: Teleported MeNEIzes to branquinho]
+[00:28:27] [Server thread/INFO]: BurtiZ has made the advancement [We Need to Go Deeper]
+[00:28:31] [Server thread/INFO]: [MeNEIzes: Teleported MeNEIzes to zeboi]
+[00:30:03] [Server thread/INFO]: MeNEIzes burned to death
+[00:31:46] [Server thread/INFO]: MeNEIzes lost connection: Disconnected
+[00:31:46] [Server thread/INFO]: MeNEIzes left the game
+[00:32:05] [Server thread/INFO]: MeNEIzes[/25.16.68.110:58336] logged in with entity id 16616 at (33.98964717992428, 70.0, -6.5)
+[00:32:05] [Server thread/INFO]: MeNEIzes joined the game
+[00:33:38] [Server thread/INFO]: galopes tried to swim in lava
+[00:33:46] [Server thread/INFO]: [galopes: Teleported galopes to branquinho]
+[00:34:37] [Server thread/INFO]: MeNEIzes fell from a high place
+[00:36:18] [Server thread/WARN]: MeNEIzes moved too quickly! 5.019326672318584,0.0,-8.8479331123414
+[00:37:08] [Server thread/INFO]: [galopes: Teleported galopes to branquinho]
+[00:37:11] [Server thread/INFO]: galopes burned to death
+[00:37:16] [Server thread/INFO]: [galopes: Teleported galopes to branquinho]
+[00:37:25] [Server thread/INFO]: <BurtiZ> quem fez a torre de ouro
+[00:37:42] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -3.2748336266559477,0.0,-9.771316702213596
+[00:37:42] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -3.4172689253062174,0.0,-10.143677728880192
+[00:37:42] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -3.55808804272462,0.0,-10.516757220315839
+[00:37:42] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -3.6976634550230187,0.0,-10.8904125271591
+[00:37:42] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -3.8363046135470142,0.0,-11.26452284222853
+[00:37:42] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -3.974275232303796,0.0,-11.63898359648769
+[00:37:42] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -4.111794312426753,0.0,-12.01370631417052
+[00:37:42] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -4.249044295913421,0.0,-12.388615926844977
+[00:37:42] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -4.386171173200864,0.0,-12.763650900443707
+[00:37:42] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -4.523298993131817,0.0,-13.138758108108192
+[00:37:42] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -3.1236286939221714,0.0,-9.870511221735768
+[00:37:42] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -3.194088109191455,0.0,-10.262269285936299
+[00:37:42] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -3.2606430035442884,0.0,-10.654727984229709
+[00:37:42] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -3.323477340049436,0.0,-11.047832985090935
+[00:37:42] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -3.3827795629378272,0.0,-11.441532741467313
+[00:37:42] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -3.438734521255782,0.0,-11.835779028169895
+[00:37:51] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 1.2508270676930238,0.0,-10.284588595288056
+[00:37:51] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 1.3487150945773863,0.0,-10.670450579789474
+[00:37:51] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 1.4491210038615634,0.0,-11.055786116526178
+[00:37:51] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 1.5516652260630224,0.0,-11.44068893278856
+[00:37:51] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 1.6560169808693956,0.0,-11.82523948275687
+[00:37:51] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 1.7618894317479317,0.0,-12.20950638657115
+[00:37:51] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 1.8690353213687558,0.0,-12.593547691966648
+[00:37:51] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 1.977243038829414,0.0,-12.977412020921548
+[00:37:51] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 2.0863294135399713,0.0,-13.361140700600487
+[00:37:51] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 2.1961368832982657,0.0,-13.744768544990166
+[00:37:51] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 2.3065309446264735,0.0,-14.12832453974491
+[00:37:51] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 2.416724021045468,0.0,-14.512028542927737
+[00:37:51] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 2.5254048090621097,0.0,-14.896215919804519
+[00:37:51] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 2.630829211828626,0.0,-15.28125364698326
+[00:37:51] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 2.7316031505456806,0.0,-15.667351270469112
+[00:37:51] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 2.826632341578602,0.0,-16.054603780017715
+[00:37:51] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 2.9150858952318117,0.0,-16.4430237699263
+[00:37:51] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 2.9963503169440173,0.0,-16.832567448216224
+[00:38:02] [Server thread/INFO]: [MeNEIzes: Set the time to 1000]
+[00:38:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4131ms or 82 ticks behind
+[00:38:15] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 3.501946907165234,0.0,-9.766606674745617
+[00:38:15] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 3.627965063254237,0.0,-10.146031784309798
+[00:38:15] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 3.753713627810896,0.0,-10.525565867337264
+[00:38:15] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 3.8792159120043266,0.0,-10.905199207396095
+[00:38:15] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 4.004492895886244,0.0,-11.284923063423093
+[00:38:15] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 4.129563460571262,0.0,-11.664729561011086
+[00:38:15] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 4.254444599993519,0.0,-12.044611620644332
+[00:38:15] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 4.379151607761969,0.0,-12.424562867033387
+[00:38:22] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 1.472359251319233,0.0,-10.292784425421758
+[00:38:22] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 1.5282089916393602,0.0,-10.688848931306325
+[00:38:22] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 1.5840279371882389,0.0,-11.084919490195034
+[00:38:22] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 1.6398191674437044,0.0,-11.480995496787386
+[00:38:22] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 1.6955854539357347,0.0,-11.877076406312824
+[00:38:22] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 1.7513254931078563,0.0,-12.27316225746921
+[00:38:22] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 1.807041909692657,0.0,-12.669252556093284
+[00:38:22] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 1.8627370659494318,0.0,-13.065346857438158
+[00:38:22] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 1.9184130879114605,0.0,-13.46144476123169
+[00:38:22] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 1.9740718890087123,0.0,-13.857545907228939
+[00:38:22] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 2.02971519132808,0.0,-14.253649971209427
+[00:38:22] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 2.085344544747727,0.0,-14.649756661374738
+[00:38:22] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 2.1409613441579154,0.0,-15.045865715106345
+[00:38:22] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 1.4465835453596014,0.0,-10.298720043059177
+[00:38:22] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 1.5020848807967013,0.0,-10.694849475582316
+[00:38:22] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 1.5575826660921734,0.0,-11.09097953015197
+[00:38:23] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -2.77809025787667,0.0,19.805918471956204
+[00:38:23] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -2.77809025787667,0.0,19.805918471956204
+[00:38:23] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -2.77809025787667,0.0,19.805918471956204
+[00:38:23] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -2.77809025787667,0.0,19.805918471956204
+[00:38:23] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -2.77809025787667,0.0,19.805918471956204
+[00:38:23] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -2.77809025787667,0.0,19.805918471956204
+[00:38:23] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -2.77809025787667,0.0,19.805918471956204
+[00:38:23] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -2.77809025787667,0.0,19.805918471956204
+[00:38:23] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -2.77809025787667,0.0,19.805918471956204
+[00:38:23] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -2.77809025787667,0.0,19.805918471956204
+[00:38:23] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -2.77809025787667,0.0,19.805918471956204
+[00:38:23] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -2.77809025787667,0.0,19.805918471956204
+[00:38:23] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -2.77809025787667,0.0,19.805918471956204
+[00:38:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9557ms or 191 ticks behind
+[00:38:37] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 3.2427535193884864,0.0,-9.803710519002607
+[00:38:37] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 3.409622475887545,0.0,-10.165965947053962
+[00:38:37] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 3.578117063350305,0.0,-10.527557757776833
+[00:38:37] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 3.7481190291071016,0.0,-10.888529461989208
+[00:38:37] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 3.919518509177749,0.0,-11.248921925609181
+[00:38:37] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 4.092213200578271,0.0,-11.608773649046213
+[00:38:37] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 4.2661042058937255,0.0,-11.968122788166
+[00:38:37] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 4.441102502551814,0.0,-12.327003653444535
+[00:38:37] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 4.6171245597363395,0.0,-12.685448875195732
+[00:38:37] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 4.79409178921145,0.0,-13.043489579038408
+[00:38:37] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 4.971930056651388,0.0,-13.401155543816401
+[00:38:37] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 5.15057263557685,0.0,-13.758473555587216
+[00:38:37] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 4.630175600870871,0.0,-9.29536597053334
+[00:38:37] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 4.81539935340777,0.0,-9.649758389089527
+[00:38:37] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 5.000827950595067,0.0,-10.004056869548663
+[00:38:37] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 5.1864442961143595,0.0,-10.358269010132744
+[00:38:37] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 5.3722330032795185,0.0,-10.712401649241428
+[00:38:37] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 5.55818022407334,0.0,-11.06646094143423
+[00:38:37] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 5.7442734952807655,0.0,-11.420452422089284
+[00:38:37] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 5.9304982118569,0.0,-11.774382872361969
+[00:38:37] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 6.116844617413278,0.0,-12.12825659970207
+[00:38:37] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 6.303300543048977,0.0,-12.482079276404193
+[00:38:37] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 6.4711108716756485,0.0,-12.800519677000295
+[00:38:37] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 6.6221401634387576,0.0,-13.087116029944582
+[00:38:37] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 6.758066522424713,0.0,-13.345052740761446
+[00:38:37] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 6.880400242271378,0.0,-13.577195774346933
+[00:38:37] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 6.988156719776896,0.0,-13.78170790708566
+[00:38:37] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 7.082793679522979,0.0,-13.961352229721058
+[00:38:37] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 7.165622650079399,0.0,-14.118615748770821
+[00:38:37] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 7.237824430646697,0.0,-14.255736545127036
+[00:38:37] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 7.30046174047709,0.0,-14.374728891539348
+[00:38:37] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 7.354491026872381,0.0,-14.47740563343433
+[00:38:38] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 4.681486755869685,0.0,-8.916071887944156
+[00:38:38] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -10.02524173239118,0.0,19.55826923628132
+[00:38:38] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -10.02524173239118,0.0,19.55826923628132
+[00:38:38] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -10.02524173239118,0.0,19.55826923628132
+[00:38:38] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -10.02524173239118,0.0,19.55826923628132
+[00:38:38] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -10.02524173239118,0.0,19.55826923628132
+[00:38:38] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -10.02524173239118,0.0,19.55826923628132
+[00:38:38] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -10.02524173239118,0.0,19.55826923628132
+[00:38:38] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -10.02524173239118,0.0,19.55826923628132
+[00:38:38] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -10.02524173239118,0.0,19.55826923628132
+[00:38:38] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -10.02524173239118,0.0,19.55826923628132
+[00:38:38] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -10.02524173239118,0.0,19.55826923628132
+[00:38:38] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -10.02524173239118,0.0,19.55826923628132
+[00:38:38] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -5.580066045566582,0.0,10.617398069009596
+[00:38:38] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -5.580066045566582,0.0,10.617398069009596
+[00:38:38] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -5.580066045566582,0.0,10.617398069009596
+[00:38:38] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -5.580066045566582,0.0,10.617398069009596
+[00:38:38] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -5.580066045566582,0.0,10.617398069009596
+[00:38:38] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -5.580066045566582,0.0,10.617398069009596
+[00:38:38] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -5.580066045566582,0.0,10.617398069009596
+[00:38:38] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -5.580066045566582,0.0,10.617398069009596
+[00:38:38] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -5.580066045566582,0.0,10.617398069009596
+[00:38:38] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -5.580066045566582,0.0,10.617398069009596
+[00:38:38] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -5.580066045566582,0.0,10.617398069009596
+[00:38:38] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -5.580066045566582,0.0,10.617398069009596
+[00:38:38] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -5.580066045566582,0.0,10.617398069009596
+[00:38:38] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -5.580066045566582,0.0,10.617398069009596
+[00:38:38] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -5.580066045566582,0.0,10.617398069009596
+[00:38:38] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -5.580066045566582,0.0,10.617398069009596
+[00:38:38] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -5.580066045566582,0.0,10.617398069009596
+[00:38:38] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -5.580066045566582,0.0,10.617398069009596
+[00:38:38] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -5.580066045566582,0.0,10.617398069009596
+[00:38:38] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -5.580066045566582,0.0,10.617398069009596
+[00:38:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3570ms or 71 ticks behind
+[00:38:55] [Server thread/INFO]: [zeboi: Teleported zeboi to BurtiZ]
+[00:38:55] [Server thread/WARN]: zeboi moved too quickly! 147.02444224816017,-16.214144163467992,112.60759354887988
+[00:39:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[00:41:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[00:41:27] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -0.9747443702577243,0.0,-10.320114428470788
+[00:41:27] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -1.0151811100814143,0.0,-10.717496307663396
+[00:41:27] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -1.0523142784404627,0.0,-11.115133141484648
+[00:41:27] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -1.086347697312533,0.0,-11.513001576507804
+[00:41:27] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -1.1174724696858789,0.0,-11.911080099185256
+[00:41:27] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -1.1458759229371935,0.0,-12.309348848135869
+[00:41:27] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -1.1717381536512903,0.0,-12.707789594215
+[00:41:27] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -1.1952289169546475,0.0,-13.106385677872368
+[00:41:27] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -1.2165086613600238,0.0,-13.505121904348243
+[00:41:27] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -1.2357294599156035,0.0,-13.903984438171165
+[00:41:27] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -1.2530358480616997,0.0,-14.302960708208275
+[00:41:27] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -1.2685617426174076,0.0,-14.70203931103265
+[00:41:27] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -1.2824353387010774,0.0,-15.10120992023144
+[00:41:27] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -1.2947796819287305,0.0,-15.500463204779408
+[00:41:27] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -1.3057055134974007,0.0,-15.899790725776484
+[00:41:28] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -0.4271484907401373,0.0,-10.372562070542926
+[00:41:28] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 0.4032500298011428,0.0,15.570884882137761
+[00:41:28] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 0.4032500298011428,0.0,15.570884882137761
+[00:41:28] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 0.4032500298011428,0.0,15.570884882137761
+[00:41:28] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 0.4032500298011428,0.0,15.570884882137761
+[00:41:28] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 0.4032500298011428,0.0,15.570884882137761
+[00:41:28] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 0.4032500298011428,0.0,15.570884882137761
+[00:41:28] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 0.4032500298011428,0.0,15.570884882137761
+[00:41:28] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 0.4032500298011428,0.0,15.570884882137761
+[00:41:28] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 0.4032500298011428,0.0,15.570884882137761
+[00:41:28] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 0.4032500298011428,0.0,15.570884882137761
+[00:41:28] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 0.4032500298011428,0.0,15.570884882137761
+[00:41:28] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 0.4032500298011428,0.0,15.570884882137761
+[00:41:28] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 0.4032500298011428,0.0,15.570884882137761
+[00:41:28] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 0.4032500298011428,0.0,15.570884882137761
+[00:41:28] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 0.4032500298011428,0.0,15.570884882137761
+[00:41:32] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 0.138614976807105,0.0,-10.399051185125586
+[00:41:32] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 0.14397702572091475,0.0,-10.799014991713761
+[00:41:32] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 0.14933974675358286,0.0,-11.198978804857461
+[00:41:32] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 0.15470307269316663,0.0,-11.598942623901166
+[00:41:32] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 0.16006694304900293,0.0,-11.998906448254843
+[00:41:32] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 0.16543130337947787,0.0,-12.39887027738746
+[00:41:32] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 0.17079610468704232,0.0,-12.79883411082119
+[00:41:32] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 0.17616130287404985,0.0,-13.198797948125844
+[00:41:32] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 0.18152685825248227,0.0,-13.598761788914317
+[00:41:32] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 0.18689273510324256,0.0,-13.998725632838273
+[00:41:32] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 0.19225890127904677,0.0,-14.398689479584164
+[00:41:32] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 0.19762532784744735,0.0,-14.798653328869818
+[00:41:33] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -1.088652129846082,0.0,13.717282502865487
+[00:41:33] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -1.4888239591294337,0.0,14.332063891467214
+[00:41:33] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -1.4888239591294337,0.0,14.332063891467214
+[00:41:33] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -1.4888239591294337,0.0,14.332063891467214
+[00:41:33] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -1.4888239591294337,0.0,14.332063891467214
+[00:41:33] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -1.4888239591294337,0.0,14.332063891467214
+[00:41:33] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -1.4888239591294337,0.0,14.332063891467214
+[00:41:33] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -1.4888239591294337,0.0,14.332063891467214
+[00:41:33] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -1.4888239591294337,0.0,14.332063891467214
+[00:41:33] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -1.4888239591294337,0.0,14.332063891467214
+[00:41:33] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -1.4888239591294337,0.0,14.332063891467214
+[00:41:33] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -1.4888239591294337,0.0,14.332063891467214
+[00:41:33] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -1.2987605089009548,0.0,14.021857202482693
+[00:41:37] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 8.327958371322211,0.0,-5.981543109440281
+[00:41:37] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 8.618890018163995,0.0,-6.253409042792896
+[00:41:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7060ms or 141 ticks behind
+[00:42:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7536ms or 150 ticks behind
+[00:42:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5303ms or 106 ticks behind
+[00:42:26] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 9.649181371201394,0.0,3.755735993897588
+[00:42:26] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 10.016088739594693,0.0,3.9140714249241455
+[00:42:26] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 10.382859751102842,0.0,4.072811003843185
+[00:42:26] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 10.749504927074895,0.0,4.231921324989457
+[00:42:26] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 11.11603373672483,0.0,4.3913723232650455
+[00:42:26] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 11.482456255790908,0.0,4.551133434584472
+[00:42:26] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 11.848779995266113,0.0,4.711180654907025
+[00:42:26] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 12.215013272215288,0.0,4.871488876961166
+[00:42:26] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 12.581163575721803,0.0,5.032035504202895
+[00:42:26] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 12.947237642235223,0.0,5.192800199743374
+[00:42:26] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 13.31324153456012,0.0,5.353764660383035
+[00:42:26] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 13.679180709220304,0.0,5.514912411380124
+[00:42:26] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 14.045060077087214,0.0,5.676228627330033
+[00:42:26] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 14.410885618841576,0.0,5.837696461733458
+[00:42:26] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 14.776661152474048,0.0,5.999304256376945
+[00:42:26] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 9.515764761084483,0.0,4.185516661855331
+[00:42:26] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 9.881188171089661,0.0,4.348093736686224
+[00:42:26] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 10.246595538845554,0.0,4.510713856642155
+[00:42:26] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 10.611988468577579,0.0,4.673372717209645
+[00:42:26] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 10.977368404088338,0.0,4.836066444326548
+[00:42:26] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 11.342736644800311,0.0,4.998791551337149
+[00:42:26] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 11.70809436019374,0.0,5.161544900251215
+[00:42:26] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 12.073442602800696,0.0,5.324323666877831
+[00:42:26] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 12.438782319899929,0.0,5.487125309445105
+[00:42:26] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 12.804114364042562,0.0,5.649947540358426
+[00:42:26] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 13.16943950252437,0.0,5.8127883007826995
+[00:42:26] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 13.53475686128968,0.0,5.97564923953928
+[00:42:26] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 13.900067218310369,0.0,6.138528338794458
+[00:42:26] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 14.265371273761048,0.0,6.301423782497864
+[00:42:26] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 14.630669657798762,0.0,6.464333936204412
+[00:42:27] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -16.09181700539864,0.0,-7.116094350760591
+[00:42:27] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -16.09181700539864,0.0,-7.116094350760591
+[00:42:27] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -16.09181700539864,0.0,-7.116094350760591
+[00:42:27] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -16.09181700539864,0.0,-7.116094350760591
+[00:42:27] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -16.09181700539864,0.0,-7.116094350760591
+[00:42:27] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -16.09181700539864,0.0,-7.116094350760591
+[00:42:27] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -16.09181700539864,0.0,-7.116094350760591
+[00:42:27] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -16.09181700539864,0.0,-7.116094350760591
+[00:42:27] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -16.09181700539864,0.0,-7.116094350760591
+[00:42:27] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -16.09181700539864,0.0,-7.116094350760591
+[00:42:27] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -16.09181700539864,0.0,-7.116094350760591
+[00:42:27] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -16.09181700539864,0.0,-7.116094350760591
+[00:42:27] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -16.09181700539864,0.0,-7.116094350760591
+[00:42:27] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -16.09181700539864,0.0,-7.116094350760591
+[00:42:27] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -16.09181700539864,0.0,-7.116094350760591
+[00:42:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4346ms or 86 ticks behind
+[00:43:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7184ms or 143 ticks behind
+[00:43:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2569ms or 51 ticks behind
+[00:43:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6624ms or 132 ticks behind
+[00:44:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7203ms or 144 ticks behind
+[00:45:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[00:45:17] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -9.300257979022717,0.0,-4.654565221604344
+[00:45:17] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -9.657960440939519,0.0,-4.833587087186629
+[00:45:17] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -10.015662907933915,0.0,-5.012608955533551
+[00:45:17] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -10.373365379498182,0.0,-5.19163082636851
+[00:45:17] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -10.731067855175297,0.0,-5.370652699442758
+[00:45:17] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -11.088770334553942,0.0,-5.549674574532332
+[00:45:19] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 10.373372330487314,0.0,5.191634610903407
+[00:45:19] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 10.373372330487314,0.0,5.191634610903407
+[00:45:19] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 10.373372330487314,0.0,5.191634610903407
+[00:45:19] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 10.373372330487314,0.0,5.191634610903407
+[00:45:19] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 10.373372330487314,0.0,5.191634610903407
+[00:45:19] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 10.373372330487314,0.0,5.191634610903407
+[00:45:19] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 10.015669820451876,0.0,5.01261271912233
+[00:45:19] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 9.657967310150639,0.0,4.833590827196645
+[00:45:19] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 9.300264799610318,0.0,4.654568935140674
+[00:45:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8698ms or 173 ticks behind
+[00:45:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3981ms or 79 ticks behind
+[00:46:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[00:47:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3123ms or 62 ticks behind
+[00:47:13] [Server thread/INFO]: [MeNEIzes: Gave 1 [TNT] to MeNEIzes]
+[00:47:17] [Server thread/INFO]: [BurtiZ: Teleported BurtiZ to branquinho]
+[00:47:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3326ms or 66 ticks behind
+[00:47:30] [Server thread/INFO]: BurtiZ tried to swim in lava
+[00:47:49] [Server thread/INFO]: [BurtiZ: Teleported BurtiZ to branquinho]
+[00:48:02] [Server thread/INFO]: branquinho fell out of the world
+[00:48:02] [Server thread/INFO]: [branquinho: Killed branquinho]
+[00:48:06] [Server thread/INFO]: [branquinho: Teleported branquinho to BurtiZ]
+[00:48:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[00:49:08] [Server thread/INFO]: MeNEIzes fell out of the world
+[00:49:08] [Server thread/INFO]: [MeNEIzes: Killed MeNEIzes]
+[00:49:14] [Server thread/INFO]: [zeboi: Teleported zeboi to MeNEIzes]
+[00:50:38] [Server thread/INFO]: [zeboi: Set the time to 1000]
+[00:53:05] [Server thread/INFO]: [branquinho: Teleported branquinho to zeboi]
+[00:53:55] [Server thread/INFO]: [branquinho: Teleported branquinho to BurtiZ]
+[00:53:55] [Server thread/WARN]: branquinho moved too quickly! -105.0817827466293,-55.0,75.90087009177581
+[00:55:00] [Server thread/INFO]: [branquinho: Teleported branquinho to galopes]
+[00:55:00] [Server thread/WARN]: branquinho moved too quickly! -15.111883622088499,14.0,2.33884278752582
+[00:55:58] [Server thread/INFO]: [branquinho: Teleported branquinho to zeboi]
+[00:55:58] [Server thread/WARN]: branquinho moved too quickly! 78.33264286460738,48.0,-76.05872540515267
+[00:56:16] [Server thread/INFO]: [MeNEIzes: Teleported MeNEIzes to galopes]
+[00:56:32] [Server thread/INFO]: [branquinho: Teleported branquinho to galopes]
+[00:56:32] [Server thread/WARN]: branquinho moved too quickly! -116.41712466860005,-40.0,90.74767445533848
+[00:56:33] [Server thread/WARN]: branquinho moved too quickly! -116.41712466860005,-40.0,90.74767445533848
+[00:56:33] [Server thread/WARN]: branquinho moved too quickly! -116.41712466860005,-40.0,90.74767445533848
+[00:56:46] [Server thread/INFO]: [branquinho: Teleported branquinho to zeboi]
+[00:56:46] [Server thread/WARN]: branquinho moved too quickly! 109.75181934400132,40.0,-86.63742854535491
+[00:56:46] [Server thread/WARN]: branquinho moved too quickly! 109.75181934400132,40.0,-86.63742854535491
+[00:57:01] [Server thread/WARN]: MeNEIzes moved too quickly! 1.5631354687723729,1.7531999805212024,-10.052184766991608
+[00:57:56] [Server thread/INFO]: [branquinho: Teleported branquinho to galopes]
+[00:57:56] [Server thread/WARN]: branquinho moved too quickly! -124.31555222123444,-53.0,66.5741855603848
+[00:58:02] [Server thread/INFO]: branquinho tried to swim in lava
+[00:58:05] [Server thread/INFO]: [branquinho: Teleported branquinho to galopes]
+[00:58:06] [Server thread/INFO]: galopes tried to swim in lava to escape Zombie
+[00:58:11] [Server thread/INFO]: [galopes: Teleported galopes to MeNEIzes]
+[00:58:16] [Server thread/INFO]: [branquinho: Teleported branquinho to zeboi]
+[00:58:16] [Server thread/WARN]: branquinho moved too quickly! 119.09766346189292,55.9600446925039,-49.038032838685936
+[00:58:24] [Server thread/INFO]: [branquinho: Teleported branquinho to galopes]
+[00:58:24] [Server thread/WARN]: branquinho moved too quickly! -107.72660074689836,-52.0,43.80713950677081
+[00:58:44] [Server thread/INFO]: [branquinho: Teleported branquinho to BurtiZ]
+[00:58:44] [Server thread/WARN]: branquinho moved too quickly! 7.366853053429736,1.0,70.81329837815761
+[00:58:56] [Server thread/INFO]: [MeNEIzes: Teleported MeNEIzes to BurtiZ]
+[00:59:10] [Server thread/INFO]: [MeNEIzes: Teleported MeNEIzes to zeboi]
+[00:59:43] [Server thread/INFO]: [branquinho: Teleported branquinho to galopes]
+[00:59:43] [Server thread/WARN]: branquinho moved too quickly! -22.506875209584933,0.7531999805212024,-56.47241997238568
+[00:59:46] [Server thread/INFO]: galopes fell out of the world
+[00:59:46] [Server thread/INFO]: [branquinho: Killed galopes]
+[00:59:48] [Server thread/INFO]: [branquinho: Teleported galopes to branquinho]
+[00:59:57] [Server thread/INFO]: [branquinho: Teleported galopes to branquinho]
+[01:00:06] [Server thread/INFO]: [galopes: Teleported galopes to zeboi]
+[01:00:09] [Server thread/INFO]: [branquinho: Teleported branquinho to BurtiZ]
+[01:00:09] [Server thread/WARN]: branquinho moved too quickly! 29.073674845607712,-4.0,51.568128564912556
+[01:00:09] [Server thread/WARN]: branquinho moved too quickly! 29.073674845607712,-4.0,51.568128564912556
+[01:00:09] [Server thread/WARN]: branquinho moved too quickly! 29.073674845607712,-4.0,51.568128564912556
+[01:00:09] [Server thread/WARN]: branquinho moved too quickly! 29.073674845607712,-4.0,51.568128564912556
+[01:00:18] [Server thread/INFO]: BurtiZ burned to death
+[01:00:26] [Server thread/INFO]: galopes lost connection: Disconnected
+[01:00:26] [Server thread/INFO]: galopes left the game
+[01:00:30] [Server thread/INFO]: [BurtiZ: Teleported BurtiZ to branquinho]
+[01:00:30] [Server thread/WARN]: BurtiZ moved too quickly! 9.51777432892581,-57.0,44.112057770424244
+[01:00:33] [Server thread/INFO]: galopes[/25.6.161.209:50179] logged in with entity id 29908 at (305.188738607143, 63.0, -23.949834697092367)
+[01:00:33] [Server thread/INFO]: galopes joined the game
+[01:01:45] [Server thread/INFO]: [zeboi: Set the time to 1000]
+[01:01:52] [Server thread/INFO]: [zeboi: Set the weather to clear]
+[01:03:10] [Server thread/INFO]: branquinho was blown up by Creeper
+[01:03:18] [Server thread/INFO]: [branquinho: Teleported branquinho to BurtiZ]
+[01:03:18] [Server thread/WARN]: branquinho moved too quickly! 7.667320509576854,-56.0,34.41901292195492
+[01:03:28] [Server thread/INFO]: [galopes: Teleported galopes to branquinho]
+[01:04:38] [Server thread/INFO]: [galopes: Teleported galopes to zeboi]
+[01:09:02] [Server thread/INFO]: [BurtiZ: Teleported BurtiZ to branquinho]
+[01:09:02] [Server thread/WARN]: BurtiZ moved too quickly! 70.19030535116448,-3.0,43.47206631923021
+[01:10:50] [Server thread/INFO]: [MeNEIzes: Set the weather to clear]
+[01:11:16] [Server thread/INFO]: [BurtiZ: Teleported BurtiZ to MeNEIzes]
+[01:11:16] [Server thread/WARN]: BurtiZ moved too quickly! 59.11289690368875,52.0,-111.46417762600481
+[01:14:45] [Server thread/WARN]: MeNEIzes moved wrongly!
+[01:15:14] [Server thread/WARN]: MeNEIzes moved too quickly! -5.337354559114999,-1.6668000063657757,8.407658240733468
+[01:15:29] [Server thread/INFO]: [MeNEIzes: Set the time to 1000]
+[01:16:30] [Server thread/INFO]: [MeNEIzes: Set the weather to clear]
+[01:17:17] [Server thread/WARN]: MeNEIzes moved wrongly!
+[01:21:39] [Server thread/INFO]: MeNEIzes tried to swim in lava
+[01:21:57] [Server thread/INFO]: MeNEIzes lost connection: Disconnected
+[01:21:57] [Server thread/INFO]: MeNEIzes left the game
+[01:22:05] [Server thread/INFO]: MeNEIzes[/25.16.68.110:58709] logged in with entity id 35986 at (310.2859545348709, 64.0, -34.49625186514275)
+[01:22:05] [Server thread/INFO]: MeNEIzes joined the game
+[01:22:06] [Server thread/INFO]: [zeboi: Teleported zeboi to branquinho]
+[01:22:06] [Server thread/WARN]: zeboi moved too quickly! -77.0238987095008,-45.0,69.83390582137537
+[01:22:24] [Server thread/INFO]: [MeNEIzes: Set the weather to clear]
+[01:22:43] [Server thread/INFO]: [zeboi: Teleported zeboi to BurtiZ]
+[01:22:55] [Server thread/INFO]: [zeboi: Teleported zeboi to branquinho]
+[01:23:07] [Server thread/INFO]: [zeboi: Teleported zeboi to BurtiZ]
+[01:23:07] [Server thread/WARN]: zeboi moved too quickly! 55.43359410405026,39.0,-125.53248070176893
+[01:25:24] [Server thread/INFO]: [MeNEIzes: Set the time to 1000]
+[01:27:33] [Server thread/INFO]: [MeNEIzes: Set the weather to clear]
+[01:28:45] [Server thread/INFO]: <branquinho> UBERTOOLS PLZ
+[01:28:55] [Server thread/INFO]: <branquinho> PICA RETA
+[01:29:01] [Server thread/INFO]: <branquinho> PICA CURVA
+[01:29:19] [Server thread/INFO]: [BurtiZ: Teleported BurtiZ to branquinho]
+[01:29:19] [Server thread/WARN]: BurtiZ moved too quickly! -37.0832562399944,-16.0,141.32561024359796
+[01:29:29] [Server thread/INFO]: [BurtiZ: Teleported BurtiZ to galopes]
+[01:29:29] [Server thread/WARN]: BurtiZ moved too quickly! 48.133030251032494,17.0,-101.84972307263527
+[01:30:50] [Server thread/INFO]: <BurtiZ> tens minero para a fornalha?
+[01:30:54] [Server thread/INFO]: <BurtiZ> henrique
+[01:31:01] [Server thread/INFO]: [BurtiZ: Teleported BurtiZ to branquinho]
+[01:31:04] [Server thread/INFO]: MeNEIzes fell out of the world
+[01:31:04] [Server thread/INFO]: [MeNEIzes: Killed MeNEIzes]
+[01:31:22] [Server thread/INFO]: [BurtiZ: Teleported BurtiZ to galopes]
+[01:31:22] [Server thread/WARN]: BurtiZ moved too quickly! 29.258197567842842,14.875,-98.99139701001815
+[01:32:14] [Server thread/INFO]: MeNEIzes has made the advancement [Enchanter]
+[01:32:23] [Server thread/INFO]: [MeNEIzes: Teleported MeNEIzes to branquinho]
+[01:32:55] [Server thread/INFO]: galopes has made the advancement [Diamonds!]
+[01:34:07] [Server thread/INFO]: [galopes: Teleported galopes to branquinho]
+[01:34:27] [Server thread/INFO]: [MeNEIzes: Set the time to 1000]
+[01:34:31] [Server thread/INFO]: [MeNEIzes: Set the weather to clear]
+[01:34:33] [Server thread/INFO]: [branquinho: Teleported branquinho to galopes]
+[01:34:33] [Server thread/WARN]: branquinho moved too quickly! 9.859968675764208,-8.0,-1.977745414267119
+[01:36:11] [Server thread/WARN]: MeNEIzes moved too quickly! -2.7549703061999935,1.0,9.740607585140594
+[01:38:33] [Server thread/INFO]: [zeboi: Teleported zeboi to BurtiZ]
+[01:38:33] [Server thread/WARN]: zeboi moved too quickly! -4.480009299812764,-1.0,40.46402446435001
+[01:39:07] [Server thread/WARN]: Tried to add entity minecraft:fireball but it was marked as removed already
+[01:40:01] [Server thread/INFO]: branquinho has made the advancement [Enchanter]
+[01:40:54] [Server thread/INFO]: [MeNEIzes: Set the weather to clear]
+[01:41:47] [Server thread/INFO]: BurtiZ has made the advancement [Enchanter]
+[01:42:21] [Server thread/INFO]: galopes has made the advancement [Enchanter]
+[01:43:19] [Server thread/INFO]: <BurtiZ> ahahahahah
+[01:43:28] [Server thread/INFO]: BurtiZ was slain by branquinho
+[01:43:34] [Server thread/INFO]: [BurtiZ: Teleported BurtiZ to branquinho]
+[01:43:46] [Server thread/INFO]: [branquinho: Made zeboi no longer a server operator]
+[01:44:37] [Server thread/INFO]: [branquinho: Set the time to 1000]
+[01:45:45] [Server thread/INFO]: * branquinho kill
+[01:46:28] [Server thread/INFO]: <BurtiZ> bora encontrar um naufragio
+[01:47:56] [Server thread/INFO]: [branquinho: Made zeboi a server operator]
+[01:48:05] [Server thread/INFO]: [zeboi: Teleported zeboi to branquinho]
+[01:48:47] [Server thread/INFO]: [MeNEIzes: Set the weather to clear]
+[01:48:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2051ms or 41 ticks behind
+[01:49:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5577ms or 111 ticks behind
+[01:49:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2347ms or 46 ticks behind
+[01:49:51] [Server thread/WARN]: branquinho moved wrongly!
+[01:49:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4265ms or 85 ticks behind
+[01:50:04] [Server thread/INFO]: [zeboi: Teleported zeboi to BurtiZ]
+[01:50:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3899ms or 77 ticks behind
+[01:50:19] [Server thread/INFO]: [MeNEIzes: Teleported MeNEIzes to branquinho]
+[01:50:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6276ms or 125 ticks behind
+[01:50:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3100ms or 62 ticks behind
+[01:51:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[01:51:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7423ms or 148 ticks behind
+[01:52:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5601ms or 112 ticks behind
+[01:52:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3897ms or 77 ticks behind
+[01:52:34] [Server thread/INFO]: [MeNEIzes: Teleported MeNEIzes to branquinho]
+[01:52:47] [Server thread/INFO]: [MeNEIzes: Teleported MeNEIzes to branquinho]
+[01:52:58] [Server thread/WARN]: branquinho moved wrongly!
+[01:53:18] [Server thread/INFO]: [MeNEIzes: Teleported MeNEIzes to branquinho]
+[01:53:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[01:53:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[01:53:51] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -0.2158671644488095,0.0,10.385643490349139
+[01:53:51] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -0.23027350962775017,0.0,10.785184282075193
+[01:53:51] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -0.24739645718796055,0.0,11.184554366028578
+[01:53:51] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -0.2676464395644871,0.0,11.58369361379971
+[01:53:51] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -0.2913230447081787,0.0,11.982545682097793
+[01:53:51] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -0.31863015318822363,0.0,12.381060249392817
+[01:53:51] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -0.3497009265122415,0.0,12.779192618629963
+[01:53:51] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -0.38460131672400166,0.0,13.176905676803699
+[01:53:51] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -0.4233445722779834,0.0,13.57416953143354
+[01:53:51] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -0.46590424396481467,0.0,13.97096068420285
+[01:53:51] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -0.5122220769430896,0.0,14.367261659763585
+[01:53:51] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -0.5622075870851404,0.0,14.763062042566844
+[01:53:52] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 1.7050504111696227,0.0,-16.272498467397554
+[01:53:53] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 1.7050504111696227,0.0,-16.272498467397554
+[01:53:53] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 1.7050504111696227,0.0,-16.272498467397554
+[01:53:53] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 1.7050504111696227,0.0,-16.272498467397554
+[01:53:53] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 1.7050504111696227,0.0,-16.272498467397554
+[01:53:53] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 1.7050504111696227,0.0,-16.272498467397554
+[01:53:53] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 1.7050504111696227,0.0,-16.272498467397554
+[01:53:53] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 1.7050504111696227,0.0,-16.272498467397554
+[01:53:53] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 1.7050504111696227,0.0,-16.272498467397554
+[01:53:53] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 1.7050504111696227,0.0,-16.272498467397554
+[01:53:53] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 1.7050504111696227,0.0,-16.272498467397554
+[01:53:53] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 1.7050504111696227,0.0,-16.272498467397554
+[01:53:53] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 1.6443295528428052,0.0,-15.878145801281562
+[01:53:53] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 1.6531679300454698,0.0,-15.877047657164326
+[01:53:53] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 1.600777127237393,0.0,-15.481691462184472
+[01:53:57] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 0.38356064582819727,0.0,10.392268910979965
+[01:53:57] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 0.3989937218199202,0.0,10.79196510066663
+[01:53:57] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 0.41444391918844303,0.0,11.191661061426544
+[01:53:57] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 0.4299095257957788,0.0,11.59135681615237
+[01:53:57] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 0.4453890007175687,0.0,11.991052385447574
+[01:53:57] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 0.4608809571220718,0.0,12.390747787855162
+[01:53:57] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 0.47638414686070973,0.0,12.79044304006402
+[01:53:57] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 0.49190127864301303,0.0,13.190138008082272
+[01:54:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3038ms or 60 ticks behind
+[01:54:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2072ms or 41 ticks behind
+[01:54:37] [Server thread/WARN]: branquinho moved wrongly!
+[01:54:52] [Server thread/INFO]: [MeNEIzes: Set the weather to clear]
+[01:54:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8187ms or 163 ticks behind
+[01:55:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5016ms or 100 ticks behind
+[01:55:32] [Server thread/WARN]: Boat moved wrongly!
+[01:55:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[01:55:56] [Server thread/WARN]: Boat (vehicle of branquinho) moved too quickly! 10.24001543554931,0.0,0.3818376354182078
+[01:55:56] [Server thread/WARN]: Boat (vehicle of branquinho) moved too quickly! 10.35136992357269,0.0,0.5197642341307755
+[01:55:56] [Server thread/WARN]: Boat (vehicle of branquinho) moved too quickly! 10.750594764824598,0.0,0.5402947538238436
+[01:55:56] [Server thread/WARN]: Boat (vehicle of branquinho) moved too quickly! 11.149843515787438,0.0,0.5608383403993003
+[01:56:14] [Server thread/INFO]: [branquinho: Set the time to 1000]
+[01:56:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11107ms or 222 ticks behind
+[01:56:19] [Server thread/INFO]: [MeNEIzes: Gave 1 [Kelp] to MeNEIzes]
+[01:56:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4354ms or 87 ticks behind
+[01:56:58] [Server thread/WARN]: Boat (vehicle of branquinho) moved too quickly! 9.3435843118707,0.0,-4.52776623625607
+[01:56:58] [Server thread/WARN]: Boat (vehicle of branquinho) moved too quickly! 9.700672895307207,0.0,-4.707722244086142
+[01:56:59] [Server thread/WARN]: Boat (vehicle of branquinho) moved too quickly! 7.468694953099657,0.0,-7.190076405293553
+[01:56:59] [Server thread/WARN]: Boat (vehicle of branquinho) moved too quickly! 7.745384566910161,0.0,-7.47852648192594
+[01:56:59] [Server thread/WARN]: Boat (vehicle of branquinho) moved too quickly! -23.129291332075354,0.0,15.94808927897651
+[01:56:59] [Server thread/WARN]: Boat (vehicle of branquinho) moved too quickly! -23.129291332075354,0.0,15.94808927897651
+[01:56:59] [Server thread/WARN]: Boat (vehicle of branquinho) moved too quickly! -22.8476587184889,0.0,15.667140015120992
+[01:56:59] [Server thread/WARN]: Boat (vehicle of branquinho) moved too quickly! -22.55854528503528,0.0,15.396133583383971
+[01:56:59] [Server thread/WARN]: Boat (vehicle of branquinho) moved too quickly! -22.26269911387965,0.0,15.1340757003166
+[01:56:59] [Server thread/WARN]: Boat (vehicle of branquinho) moved too quickly! -21.96079347895261,0.0,14.88007151083849
+[01:56:59] [Server thread/WARN]: Boat (vehicle of branquinho) moved too quickly! -21.653434326775823,0.0,14.633315645398739
+[01:56:59] [Server thread/WARN]: Boat (vehicle of branquinho) moved too quickly! -27.384091497470877,0.0,20.785795979165414
+[01:56:59] [Server thread/WARN]: Boat (vehicle of branquinho) moved too quickly! -27.0674101366111,0.0,20.5514282532352
+[01:56:59] [Server thread/WARN]: Boat (vehicle of branquinho) moved too quickly! -26.74675457115768,0.0,20.32234178656654
+[01:56:59] [Server thread/WARN]: Boat (vehicle of branquinho) moved too quickly! -26.422522221664735,0.0,20.098008453107354
+[01:56:59] [Server thread/WARN]: Boat (vehicle of branquinho) moved too quickly! -26.09507076662146,0.0,19.87795293942338
+[01:56:59] [Server thread/WARN]: Boat (vehicle of branquinho) moved too quickly! -25.764722116659755,0.0,19.66174746343512
+[01:56:59] [Server thread/WARN]: Boat (vehicle of branquinho) moved too quickly! -25.4317659913404,0.0,19.449007021281147
+[01:56:59] [Server thread/WARN]: Boat (vehicle of branquinho) moved too quickly! -25.09646313826147,0.0,19.239385109495515
+[01:57:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14575ms or 291 ticks behind
+[01:57:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3990ms or 79 ticks behind
+[01:57:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[01:58:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3352ms or 67 ticks behind
+[01:58:23] [Server thread/INFO]: [BurtiZ: Teleported BurtiZ to galopes]
+[01:58:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9818ms or 196 ticks behind
+[01:58:43] [Server thread/INFO]: [BurtiZ: Teleported BurtiZ to zeboi]
+[01:58:43] [Server thread/WARN]: BurtiZ moved too quickly! 119.95579803280529,6.0,43.17119793791362
+[01:58:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5814ms or 116 ticks behind
+[01:58:54] [Server thread/INFO]: [BurtiZ: Teleported BurtiZ to branquinho]
+[01:59:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2928ms or 58 ticks behind
+[01:59:35] [Server thread/INFO]: [BurtiZ: Teleported BurtiZ to zeboi]
+[01:59:35] [Server thread/WARN]: BurtiZ moved too quickly! -589.2543603950805,5.0,533.545352331723
+[01:59:40] [Server thread/INFO]: [branquinho: Made BurtiZ no longer a server operator]
+[01:59:46] [Server thread/INFO]: [branquinho: Teleported BurtiZ to branquinho]
+[01:59:51] [Server thread/INFO]: [branquinho: Teleported branquinho to galopes]
+[01:59:51] [Server thread/WARN]: branquinho moved too quickly! -582.3399443270562,5.0,530.5195843318652
+[01:59:59] [Server thread/INFO]: [MeNEIzes: Teleported branquinho to MeNEIzes]
+[01:59:59] [Server thread/WARN]: branquinho moved too quickly! 291.3590338832401,25.0,442.8471031708839
+[02:00:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2050ms or 41 ticks behind
+[02:00:37] [Server thread/INFO]: [branquinho: Made BurtiZ a server operator]
+[02:00:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3452ms or 69 ticks behind
+[02:00:44] [Server thread/INFO]: [BurtiZ: Teleported BurtiZ to branquinho]
+[02:00:44] [Server thread/WARN]: BurtiZ moved too quickly! -278.0640008405826,-0.9267359854653492,965.8238625253748
+[02:01:08] [Server thread/INFO]: [branquinho: Teleported galopes to BurtiZ]
+[02:01:22] [Server thread/INFO]: [zeboi: Teleported zeboi to BurtiZ]
+[02:01:28] [Server thread/INFO]: [MeNEIzes: Teleported branquinho to MeNEIzes]
+[02:01:42] [Server thread/INFO]: [branquinho: Teleported branquinho to zeboi]
+[02:01:42] [Server thread/WARN]: branquinho moved too quickly! -61.16517435681499,1.148619772361009,-103.64680208510356
+[02:01:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3362ms or 67 ticks behind
+[02:02:03] [Server thread/INFO]: [zeboi: Teleported zeboi to branquinho]
+[02:02:03] [Server thread/WARN]: zeboi moved too quickly! -14.956205273191017,0.0,-14.13523946115481
+[02:02:09] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 2.525044992153653,1.1541065709508302E-4,9.825211594999132
+[02:02:09] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 2.6249175464009795,1.1603106118940332E-4,10.210451070655267
+[02:02:09] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 2.723746404306894,1.1689707129391991E-4,10.596153071287176
+[02:02:09] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 2.821317923330298,1.1787622866421543E-4,10.982342963092151
+[02:02:09] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 2.9174730110063365,1.1885990537052749E-4,11.369033796760277
+[02:02:09] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 3.012098090865152,1.1976625964393861E-4,11.75622904776776
+[02:02:09] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 3.1051131635805405,1.2054025456365025E-4,12.14392566378649
+[02:02:27] [Server thread/INFO]: BurtiZ was blown up by Creeper
+[02:02:29] [Server thread/INFO]: [zeboi: Set the time to 1000]
+[02:02:32] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -1.3990823096244185,0.0,10.305080664001594
+[02:02:32] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -1.453339762724454,0.0,10.701380490343922
+[02:02:32] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -1.5076116927173189,0.0,11.0976786440458
+[02:02:32] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -1.5618966519133437,0.0,11.49397529237126
+[02:02:32] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -1.6161933373919055,0.0,11.890270585857934
+[02:02:32] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -1.670500576524546,0.0,12.286564659989835
+[02:02:32] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -1.7248173139455503,0.0,12.682857636702465
+[02:02:32] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -1.779142599825832,0.0,13.079149625737728
+[02:02:32] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -1.8334755793192699,0.0,13.475440725863336
+[02:02:32] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -1.8878154830644007,0.0,13.871731025970348
+[02:02:32] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -1.9421616186358506,0.0,14.268020606060645
+[02:02:32] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -1.9965133628508056,0.0,14.664309538135967
+[02:02:32] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -2.0508701548448016,0.0,15.060597886997698
+[02:02:32] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -2.1052314898398663,0.0,15.456885710967299
+[02:02:32] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -2.159596913535779,0.0,15.853173062533983
+[02:02:32] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -2.2139660170623756,0.0,16.249459988938042
+[02:02:32] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -2.268338432436394,0.0,16.64574653269574
+[02:02:32] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -1.4129531581162382,0.0,10.303534439498208
+[02:02:32] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -1.467344987186948,0.0,10.699818740223805
+[02:02:32] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -1.5217378555502137,0.0,11.096102920870976
+[02:02:32] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -1.5761316592767116,0.0,11.492386993447553
+[02:02:32] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -1.6305263048301413,0.0,11.888670968760607
+[02:02:32] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -1.6849217080277867,0.0,12.284954856536501
+[02:02:32] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -1.7393177931051014,0.0,12.681238665528895
+[02:02:32] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -1.7937144918741978,0.0,13.077522403616172
+[02:02:32] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -1.848111742965898,0.0,13.473806077888867
+[02:02:32] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -1.9025094911479528,0.0,13.870089694728449
+[02:02:32] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -1.9569076867112472,0.0,14.26637325987815
+[02:02:32] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -2.011306284917623,0.0,14.662656778507085
+[02:02:32] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -2.0657052455028406,0.0,15.058940255267203
+[02:02:32] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -2.120104532228993,0.0,15.455223694345477
+[02:02:32] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -2.174504112481941,0.0,15.851507099510059
+[02:02:32] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -2.2289039569089937,0.0,16.24779047415234
+[02:02:32] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -2.283304039092741,0.0,16.64407382132447
+[02:02:32] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -2.337704335257513,0.0,17.040357143773576
+[02:02:32] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -2.392104824005287,0.0,17.436640443971896
+[02:02:32] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -2.4465054860776263,0.0,17.832923724144507
+[02:02:32] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -2.500906304142177,0.0,18.229206986294002
+[02:02:32] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -2.5553072625996265,0.0,18.62549023222266
+[02:02:32] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -2.609708347410674,0.0,19.021773463552677
+[02:02:32] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -2.6641095459400503,0.0,19.418056681743792
+[02:02:32] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -2.7185108468158887,0.0,19.81433988811
+[02:02:32] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -2.7729122398035315,0.0,20.21062308383364
+[02:02:33] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -1.4680589630431768,0.0,10.699745157504026
+[02:02:33] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -1.519825319849133,0.0,11.096332850686736
+[02:02:33] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -1.5686534816975382,0.0,11.493199082467186
+[02:02:33] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -1.6137644865278844,0.0,11.890361693389764
+[02:02:33] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -1.6545638064666264,0.0,12.287807537393292
+[02:02:33] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -1.6906159427817329,0.0,12.685503157712901
+[02:02:33] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -1.721609737708718,0.0,13.083402662931348
+[02:02:33] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -1.7473499520662017,0.0,13.481453951157505
+[02:02:33] [Server thread/INFO]: [BurtiZ: Teleported BurtiZ to galopes]
+[02:02:33] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -1.7677265657408725,0.0,13.879602441691532
+[02:02:33] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -1.7834021978646888,0.0,14.277847053248479
+[02:02:33] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -1.7956586464825932,0.0,14.676224136355472
+[02:02:33] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -1.8055697903149621,0.0,15.074747720429968
+[02:02:33] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -1.8140258007733792,0.0,15.473416197613005
+[02:02:33] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -1.8217627631889854,0.0,15.872217615513023
+[02:02:33] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -1.829385611034354,0.0,16.271133442297014
+[02:02:33] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -1.8373850007457122,0.0,16.670141459808974
+[02:02:33] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -1.846156376652175,0.0,17.069217767604755
+[02:02:33] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -1.8553121046903698,0.0,17.468366537436737
+[02:02:33] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -1.863836043764877,0.0,17.867599414046595
+[02:02:33] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -1.870917027596306,0.0,18.26690457811401
+[02:02:33] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -1.8759096043445425,0.0,18.66625525801851
+[02:02:34] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -1.8783099956045817,0.0,19.065615866781854
+[02:02:34] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -1.8777381559808646,0.0,19.464946720652847
+[02:02:34] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -1.873917711715535,0.0,19.8642073247089
+[02:02:34] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -1.3600509583696976,0.0,10.306279951404008
+[02:02:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2053ms or 41 ticks behind
+[02:02:37] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -3.6473018288917274,0.0,9.722466407614434
+[02:02:37] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -3.7897723507887804,0.0,10.096114506189338
+[02:02:37] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -3.9322519768743405,0.0,10.469771064288352
+[02:02:37] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -4.074736213000051,0.0,10.8434365994151
+[02:02:37] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -4.217224598161806,0.0,11.21711021386659
+[02:02:37] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -4.359713134657909,0.0,11.590792466891685
+[02:02:37] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -4.502201807354936,0.0,11.964482494632762
+[02:02:37] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -4.644687018903596,0.0,12.338180886799705
+[02:02:37] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -4.787169115418692,0.0,12.711886806949565
+[02:02:37] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -4.929644824674483,0.0,13.085600869465566
+[02:02:38] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 4.130709673487786,0.0,-10.83834773131548
+[02:02:38] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 4.130709673487786,0.0,-10.83834773131548
+[02:02:38] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 4.130709673487786,0.0,-10.83834773131548
+[02:02:38] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 4.130709673487786,0.0,-10.83834773131548
+[02:02:38] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 4.130709673487786,0.0,-10.83834773131548
+[02:02:38] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 4.130709673487786,0.0,-10.83834773131548
+[02:02:38] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 4.130709673487786,0.0,-10.83834773131548
+[02:02:38] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 4.130709673487786,0.0,-10.83834773131548
+[02:02:38] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 4.130709673487786,0.0,-10.83834773131548
+[02:02:38] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 4.130709673487786,0.0,-10.83834773131548
+[02:02:38] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 3.988307786184123,0.0,-10.464560449536862
+[02:02:38] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 3.8458827656351104,0.0,-10.090781360920914
+[02:02:38] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 3.7034369251658745,0.0,-9.717009646151268
+[02:02:39] [Server thread/INFO]: [zeboi: Set the weather to clear]
+[02:02:40] [Server thread/WARN]: galopes moved wrongly!
+[02:02:46] [Server thread/INFO]: [BurtiZ: Teleported BurtiZ to zeboi]
+[02:02:49] [Server thread/WARN]: MeNEIzes moved wrongly!
+[02:02:53] [Server thread/INFO]: [branquinho: Teleported zeboi to BurtiZ]
+[02:03:14] [Server thread/INFO]: galopes was slain by branquinho
+[02:03:25] [Server thread/INFO]: [galopes: Teleported galopes to branquinho]
+[02:03:30] [Server thread/INFO]: branquinho was slain by galopes
+[02:03:30] [Server thread/INFO]: [MeNEIzes: Teleported zeboi to 15000.5, 62.07326524794571, 15000.5]
+[02:03:31] [Server thread/WARN]: zeboi moved too quickly! 0.9989105723943794,-10.476952967068748,-1.062734330425883
+[02:03:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[02:03:34] [Server thread/INFO]: [branquinho: Teleported branquinho to zeboi]
+[02:03:44] [Server thread/INFO]: [branquinho: Teleported branquinho to MeNEIzes]
+[02:03:49] [Server thread/INFO]: [branquinho: Teleported branquinho to galopes]
+[02:03:49] [Server thread/WARN]: branquinho moved too quickly! 0.8986503677601831,7.176442264312847,-440.59862513783423
+[02:03:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4325ms or 86 ticks behind
+[02:03:54] [Server thread/INFO]: galopes fell out of the world
+[02:03:54] [Server thread/INFO]: [branquinho: Killed galopes]
+[02:03:56] [Server thread/INFO]: [zeboi: Teleported BurtiZ to zeboi]
+[02:04:01] [Server thread/INFO]: [branquinho: Made galopes no longer a server operator]
+[02:04:04] [Server thread/INFO]: [MeNEIzes: Teleported MeNEIzes to zeboi]
+[02:04:04] [Server thread/INFO]: [zeboi: Teleported zeboi to MeNEIzes]
+[02:04:10] [Server thread/INFO]: [zeboi: Teleported zeboi to branquinho]
+[02:04:10] [Server thread/WARN]: zeboi moved too quickly! -14254.58826051498,0.31084201939113143,-14449.926538624351
+[02:04:11] [Server thread/INFO]: [BurtiZ: Teleported BurtiZ to branquinho]
+[02:04:11] [Server thread/WARN]: BurtiZ moved too quickly! -14256.56879815946,2.4484929353794627,-14445.09390799782
+[02:04:20] [Server thread/INFO]: [branquinho: Teleported galopes to -1.222, -111.0, -110.5]
+[02:04:23] [Server thread/INFO]: galopes fell out of the world
+[02:04:23] [Server thread/INFO]: branquinho was slain by BurtiZ
+[02:04:29] [Server thread/INFO]: [branquinho: Made BurtiZ no longer a server operator]
+[02:04:33] [Server thread/INFO]: [zeboi: Teleported zeboi to MeNEIzes]
+[02:04:37] [Server thread/INFO]: [branquinho: Teleported BurtiZ to 48.5, 12.0, 10.5]
+[02:04:40] [Server thread/INFO]: [branquinho: Teleported branquinho to BurtiZ]
+[02:04:40] [Server thread/WARN]: branquinho moved too quickly! -187.42507128934474,-61.0,-39.667090032281465
+[02:04:45] [Server thread/INFO]: [branquinho: Teleported branquinho to galopes]
+[02:04:45] [Server thread/WARN]: branquinho moved too quickly! 265.4741880973177,64.0,-43.170616159575054
+[02:04:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2080ms or 41 ticks behind
+[02:04:48] [Server thread/INFO]: BurtiZ suffocated in a wall
+[02:04:54] [Server thread/INFO]: [branquinho: Teleported galopes to -0.5, -1.0, -0.5]
+[02:05:00] [Server thread/INFO]: galopes fell out of the world
+[02:05:02] [Server thread/WARN]: Boat moved wrongly!
+[02:05:02] [Server thread/WARN]: Boat moved wrongly!
+[02:05:02] [Server thread/WARN]: Boat moved wrongly!
+[02:05:02] [Server thread/WARN]: Boat moved wrongly!
+[02:05:02] [Server thread/WARN]: Boat moved wrongly!
+[02:05:09] [Server thread/INFO]: [branquinho: Made galopes a server operator]
+[02:05:13] [Server thread/INFO]: [galopes: Teleported galopes to MeNEIzes]
+[02:05:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10159ms or 203 ticks behind
+[02:05:17] [Server thread/INFO]: [branquinho: Teleported branquinho to 58.12, 12.33, 45.5]
+[02:05:17] [Server thread/WARN]: branquinho moved too quickly! -256.92446756287967,-58.67,79.25173229747094
+[02:05:29] [Server thread/INFO]: <BurtiZ> dame tp
+[02:05:30] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 9.658503649308841,0.0,3.0721251136546925
+[02:05:30] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 10.037934770623906,0.0,3.1928125329704926
+[02:05:30] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 10.417539926194877,0.0,3.313555308177456
+[02:05:30] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 10.797301712591434,0.0,3.434347903685193
+[02:05:30] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 11.177204466726835,0.0,3.5551853374618076
+[02:05:30] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 11.557234091822465,0.0,3.67606312568023
+[02:05:30] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 11.93737790078194,0.0,3.796977232894278
+[02:05:30] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 12.317624475213961,0.0,3.917924027204208
+[02:05:30] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 12.697963538570548,0.0,4.038900239900613
+[02:05:30] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 13.078385841956333,0.0,4.159902929142845
+[02:05:30] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 13.458883061364759,0.0,4.280929447275412
+[02:05:30] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 13.839447705193379,0.0,4.401977411409462
+[02:05:30] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 14.220073030999629,0.0,4.523044676943755
+[02:05:30] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 14.600752970582107,0.0,4.6441293137377215
+[02:05:30] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 14.981482062563373,0.0,4.765229584665576
+[02:05:30] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 15.362255391701183,0.0,4.886343926313202
+[02:05:30] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 15.74306853428061,0.0,5.007470931608623
+[02:05:30] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 16.123917508955856,0.0,5.128609334187786
+[02:05:30] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 9.892370305944496,0.0,3.1465121770379483
+[02:05:30] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 10.273416830665155,0.0,3.2677134152854705
+[02:05:30] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 10.654475849260052,0.0,3.3889186275191605
+[02:05:30] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 11.035546112343582,0.0,3.510127416338946
+[02:05:30] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 11.416626495465607,0.0,3.631339424086036
+[02:05:30] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 11.79771598662228,0.0,3.7525543288684275
+[02:05:30] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 12.178813675011043,0.0,3.873771840982954
+[02:05:30] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 12.55991874090796,0.0,3.9949916996956745
+[02:05:30] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 12.941030446561854,0.0,4.116213670347861
+[02:05:30] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 13.322148127996115,0.0,4.23743754174393
+[02:05:30] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 13.703271187632708,0.0,4.358663123810402
+[02:05:30] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 14.084399087651036,0.0,4.479890245480419
+[02:05:30] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 14.46553134401438,0.0,4.6011187527929
+[02:05:30] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 14.846667521087511,0.0,4.722348507184506
+[02:05:30] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 15.227807226798177,0.0,4.843579383945325
+[02:05:30] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 15.608950108284262,0.0,4.964811270840073
+[02:05:30] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 15.990095847966586,0.0,5.086044066854811
+[02:05:30] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 16.371244160025526,0.0,5.207277681078267
+[02:05:30] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 16.752394787225057,0.0,5.3285120316886605
+[02:05:30] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 17.133547498049666,0.0,5.449747045047843
+[02:05:30] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 17.514702084137753,0.0,5.570982654880936
+[02:05:30] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 17.895858357962425,0.0,5.692218801539639
+[02:05:30] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 18.27701615074875,0.0,5.813455431341936
+[02:05:30] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 18.65817531060202,0.0,5.93469249597365
+[02:05:30] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 9.909159535043727,0.0,3.151852405810132
+[02:05:30] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 10.290322029171875,0.0,3.273090530990885
+[02:05:30] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 10.671485420232784,0.0,3.3943289414619358
+[02:05:30] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 11.052649618532087,0.0,3.515567608696074
+[02:05:30] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 11.43381454334667,0.0,3.636806507016445
+[02:05:31] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 11.81498012202428,0.0,3.758045613314607
+[02:05:31] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 12.196146289179524,0.0,3.879284906792236
+[02:05:31] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 12.577312985964454,0.0,4.000524368731931
+[02:05:31] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 12.958480159415558,0.0,4.121763982286211
+[02:05:31] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 13.339647761866217,0.0,4.24300373229562
+[02:05:31] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 13.720815750417387,0.0,4.364243605112279
+[02:05:31] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 14.101984086457378,0.0,4.48548358845801
+[02:05:31] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 14.483152735239855,0.0,4.6067236712769954
+[02:05:31] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 14.864321665489115,0.0,4.727963843624821
+[02:05:31] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 15.245490849058115,0.0,4.8492040965466
+[02:05:31] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 15.626660260615608,0.0,4.970444421986031
+[02:05:31] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 16.007829877362383,0.0,5.091684812690801
+[02:05:31] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 16.38899967877842,0.0,5.212925262134377
+[02:05:31] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 16.770169646397335,0.0,5.334165764443242
+[02:05:31] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 17.151339763599026,0.0,5.455406314331412
+[02:05:31] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 17.53251001542594,0.0,5.576646907038594
+[02:05:31] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 17.91368038841574,0.0,5.697887538284704
+[02:05:31] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 18.29485087045032,0.0,5.819128204215303
+[02:05:31] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 18.67602145062665,0.0,5.940368901363399
+[02:05:31] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 19.057192119131287,0.0,6.061609626605787
+[02:05:31] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 19.4383628671294,0.0,6.182850377133946
+[02:05:31] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 10.29153564916487,0.0,3.2734765527966374
+[02:05:31] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 10.672489125157881,0.0,3.395380594452945
+[02:05:31] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 11.052801909176196,0.0,3.5191315755037067
+[02:05:31] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 11.43183283200051,0.0,3.646298853042026
+[02:05:31] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 11.808696521422462,0.0,3.778716724496917
+[02:05:31] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 12.182234129941207,0.0,3.9183680330352217
+[02:05:31] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 12.550990554791497,0.0,4.067268029784827
+[02:05:31] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 12.886662065262499,0.0,4.204538076071913
+[02:05:31] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 13.192215160754131,0.0,4.331701027236704
+[02:05:31] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 13.470255351636297,0.0,4.450115224783076
+[02:05:31] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 13.723064497044106,0.0,4.560974916677878
+[02:05:31] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 13.95263513068312,0.0,4.6653122733532655
+[02:05:31] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 14.16070470552404,0.0,4.763999060307469
+[02:05:31] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 14.348790465050115,0.0,4.857748864767927
+[02:05:31] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 14.518221497290142,0.0,4.947121304112443
+[02:05:31] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 14.670171653735451,0.0,5.032527493565794
+[02:05:31] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 14.805690047271128,0.0,5.114237694502663
+[02:05:31] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 14.925730787399516,0.0,5.192391117612715
+[02:05:31] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 15.03118091943361,0.0,5.267008198165058
+[02:05:31] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 15.122885254682842,0.0,5.338004792776701
+[02:05:31] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 15.201669347088682,0.0,5.405209133956305
+[02:05:31] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 15.268358471937972,0.0,5.46838016627953
+[02:05:31] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 15.323793182837107,0.0,5.527227380054683
+[02:05:31] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 15.36884109597122,0.0,5.581431723112473
+[02:05:31] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 15.404404594168227,0.0,5.630666582550475
+[02:05:31] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 15.431415112265313,0.0,5.674794397813457
+[02:05:31] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 15.450769166020109,0.0,5.713843177694798
+[02:05:31] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 15.429012754291762,0.0,5.740905330507303
+[02:05:31] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 15.370663566121948,0.0,5.7554119146298035
+[02:05:31] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 15.279621876507008,0.0,5.757714347169895
+[02:05:31] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 15.159195325486507,0.0,5.748896441837132
+[02:05:31] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 15.012171752889117,0.0,5.73061744430197
+[02:05:31] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 14.840915293247235,0.0,5.70499866364662
+[02:05:31] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 14.681871252760175,0.0,5.681014312054685
+[02:05:31] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 14.533773071530959,0.0,5.658785905679906
+[02:05:31] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 14.395493571273619,0.0,5.638482828166161
+[02:05:31] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 14.266043057286879,0.0,5.620311678119833
+[02:05:31] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 14.144567641897083,0.0,5.6045049427902995
+[02:05:31] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 14.03034709480562,0.0,5.591309278855988
+[02:05:31] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 13.92279172561939,0.0,5.580973341900972
+[02:05:31] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 13.821437708502344,0.0,5.573734825080464
+[02:05:31] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 13.730219095514258,0.0,5.56722016011372
+[02:05:31] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 13.64409775842796,0.0,5.564323894985137
+[02:05:31] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 13.562931163945905,0.0,5.565126577857882
+[02:05:31] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 13.486662440098371,0.0,5.5696751372743165
+[02:05:31] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 13.396336333140425,0.0,5.607381233483466
+[02:05:31] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 13.297940636630301,0.0,5.677476290433333
+[02:05:31] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -19.039335700816082,0.0,-6.055929951951839
+[02:05:31] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -19.039335700816082,0.0,-6.055929951951839
+[02:05:31] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -19.039335700816082,0.0,-6.055929951951839
+[02:05:31] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -19.039335700816082,0.0,-6.055929951951839
+[02:05:31] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -19.039335700816082,0.0,-6.055929951951839
+[02:05:31] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -19.039335700816082,0.0,-6.055929951951839
+[02:05:31] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -19.039335700816082,0.0,-6.055929951951839
+[02:05:31] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -19.039335700816082,0.0,-6.055929951951839
+[02:05:31] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -19.039335700816082,0.0,-6.055929951951839
+[02:05:31] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -19.039335700816082,0.0,-6.055929951951839
+[02:05:31] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -19.039335700816082,0.0,-6.055929951951839
+[02:05:31] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -19.039335700816082,0.0,-6.055929951951839
+[02:05:31] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -19.039335700816082,0.0,-6.055929951951839
+[02:05:31] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -19.039335700816082,0.0,-6.055929951951839
+[02:05:31] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -19.039335700816082,0.0,-6.055929951951839
+[02:05:31] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -19.039335700816082,0.0,-6.055929951951839
+[02:05:31] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -19.039335700816082,0.0,-6.055929951951839
+[02:05:31] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -19.039335700816082,0.0,-6.055929951951839
+[02:05:31] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -9.577147657537353,0.0,-2.9606679028947838
+[02:05:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4629ms or 92 ticks behind
+[02:05:37] [Server thread/INFO]: [branquinho: Teleported branquinho to -34.12, 45.0, 12.3]
+[02:05:37] [Server thread/WARN]: branquinho moved too quickly! -92.81999998807908,33.0,-33.20395235607873
+[02:05:40] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 9.41792758317024,0.0,3.4920831687722966
+[02:05:40] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 9.562712543911402,0.0,3.4962827891995403
+[02:05:41] [Server thread/INFO]: <BurtiZ> henr
+[02:05:44] [Server thread/WARN]: zeboi moved wrongly!
+[02:05:53] [Server thread/INFO]: [branquinho: Teleported branquinho to 89.5, 23.0, 80.5]
+[02:05:53] [Server thread/WARN]: branquinho moved too quickly! 123.80000001192093,-22.0,67.83866353660687
+[02:05:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7707ms or 154 ticks behind
+[02:06:04] [Server thread/INFO]: [branquinho: Teleported branquinho to 87.5, 80.0, -22.5]
+[02:06:04] [Server thread/WARN]: branquinho moved too quickly! -2.0,57.0,-103.0
+[02:06:07] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 9.654433030171276,0.0,-2.8249665161092707
+[02:06:07] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 9.986771666146524,0.0,-3.0337962625417276
+[02:06:07] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 10.316331986367004,0.0,-3.2476748477638466
+[02:06:07] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 10.643244651157147,0.0,-3.4662692447291192
+[02:06:07] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 10.967641392280711,0.0,-3.68926154037581
+[02:06:07] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 11.289652650135395,0.0,-3.916350531118951
+[02:06:07] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 11.609410440978536,0.0,-4.147247352928389
+[02:06:07] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 11.927040752485482,0.0,-4.381683014840746
+[02:06:07] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 12.242666812051539,0.0,-4.619403638182121
+[02:06:07] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 12.556409474580505,0.0,-4.860169055225924
+[02:06:07] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 12.868384982413772,0.0,-5.10375436245522
+[02:06:07] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 13.178705501097284,0.0,-5.349948457469509
+[02:06:07] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 13.487476991995209,0.0,-5.598555540387679
+[02:06:07] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 13.794802468353737,0.0,-5.8493907970769214
+[02:06:07] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 14.10077713803912,0.0,-6.102284974193026
+[02:06:07] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 14.4054944125146,0.0,-6.357077220265637
+[02:06:07] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 14.709040900883338,0.0,-6.613619894917065
+[02:06:07] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 15.011497108744152,0.0,-6.871777258920702
+[02:06:07] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -8.960820059930484,0.0,7.637505540962593
+[02:06:07] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -8.960820059930484,0.0,7.637505540962593
+[02:06:07] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -8.960820059930484,0.0,7.637505540962593
+[02:06:07] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -8.960820059930484,0.0,7.637505540962593
+[02:06:07] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -8.960820059930484,0.0,7.637505540962593
+[02:06:07] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -8.960820059930484,0.0,7.637505540962593
+[02:06:07] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -8.960820059930484,0.0,7.637505540962593
+[02:06:07] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -8.960820059930484,0.0,7.637505540962593
+[02:06:07] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -8.960820059930484,0.0,7.637505540962593
+[02:06:07] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -8.960820059930484,0.0,7.637505540962593
+[02:06:07] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -8.960820059930484,0.0,7.637505540962593
+[02:06:07] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -8.960820059930484,0.0,7.637505540962593
+[02:06:07] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -8.960820059930484,0.0,7.637505540962593
+[02:06:07] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -8.960820059930484,0.0,7.637505540962593
+[02:06:07] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -8.960820059930484,0.0,7.637505540962593
+[02:06:07] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -8.960820059930484,0.0,7.637505540962593
+[02:06:07] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -8.960820059930484,0.0,7.637505540962593
+[02:06:07] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -8.960820059930484,0.0,7.637505540962593
+[02:06:07] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -9.176205790345193,0.0,7.9125140799606015
+[02:06:07] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -9.0201048468316,0.0,7.7176898450688896
+[02:06:08] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -8.875332026527758,0.0,7.539766431926182
+[02:06:08] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -8.749492655089853,0.0,7.381903095460075
+[02:06:11] [Server thread/INFO]: <BurtiZ> branq
+[02:06:13] [Server thread/INFO]: [galopes: Teleported galopes to branquinho]
+[02:06:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5615ms or 112 ticks behind
+[02:06:16] [Server thread/INFO]: [branquinho: Teleported branquinho to BurtiZ]
+[02:06:16] [Server thread/WARN]: branquinho moved too quickly! 226.77757264712125,-12.0,24.759846868381427
+[02:06:23] [Server thread/INFO]: [branquinho: Made by a server operator]
+[02:06:24] [Server thread/INFO]: [branquinho: Made BurtiZ a server operator]
+[02:06:25] [Server thread/INFO]: <BurtiZ> dame tp boi
+[02:06:26] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 9.241984246706124,0.0,-3.915714480122915
+[02:06:26] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 9.60590162698827,0.0,-4.07004867282194
+[02:06:26] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 9.970250481117546,0.0,-4.224571548951644
+[02:06:27] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 9.167348965240308,0.0,-4.198587450264313
+[02:06:27] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 9.26713583206947,0.0,-4.354717104086376
+[02:06:27] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 9.393765732820611,0.0,-4.5108594258290395
+[02:06:27] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 9.54455436346143,0.0,-4.66701314869897
+[02:06:27] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 9.717085850428703,0.0,-4.823177132582714
+[02:06:27] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 9.909185907568826,0.0,-4.979350351381072
+[02:06:27] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 10.060565969462914,0.0,-5.1355318816004
+[02:06:27] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! 10.097387692447228,0.0,-5.291720892098965
+[02:06:28] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -10.388493186466803,0.0,6.526521313595367
+[02:06:28] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -10.388493186466803,0.0,6.526521313595367
+[02:06:28] [Server thread/WARN]: Boat (vehicle of MeNEIzes) moved too quickly! -10.388493186466803,0.0,6.526521313595367
+[02:06:28] [Server thread/WARN]: Boat moved wrongly!
+[02:06:28] [Server thread/WARN]: Boat moved wrongly!
+[02:06:28] [Server thread/WARN]: Boat moved wrongly!
+[02:06:28] [Server thread/WARN]: Boat moved wrongly!
+[02:06:28] [Server thread/WARN]: Boat moved wrongly!
+[02:06:28] [Server thread/WARN]: Boat moved wrongly!
+[02:06:28] [Server thread/WARN]: Boat moved wrongly!
+[02:06:28] [Server thread/WARN]: Boat moved wrongly!
+[02:06:28] [Server thread/WARN]: Boat moved wrongly!
+[02:06:28] [Server thread/WARN]: Boat moved wrongly!
+[02:06:29] [Server thread/INFO]: [galopes: Teleported galopes to MeNEIzes]
+[02:06:32] [Server thread/INFO]: [BurtiZ: Teleported BurtiZ to zeboi]
+[02:06:32] [Server thread/WARN]: BurtiZ moved too quickly! 14707.51179987461,-3.9267351751937056,15021.269563204265
+[02:06:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3885ms or 77 ticks behind
+[02:06:39] [Server thread/INFO]: [branquinho: Teleported BurtiZ to -96.5, 90.0, -88.5]
+[02:06:39] [Server thread/WARN]: BurtiZ moved too quickly! -15116.768552485217,35.906335019817504,-15100.590266519179
+[02:06:39] [Server thread/WARN]: BurtiZ moved too quickly! -15116.768552485217,35.906335019817504,-15100.590266519179
+[02:06:39] [Server thread/WARN]: BurtiZ moved too quickly! -15116.768552485217,35.906335019817504,-15100.590266519179
+[02:06:41] [Server thread/INFO]: [branquinho: Teleported branquinho to BurtiZ]
+[02:06:49] [Server thread/INFO]: [branquinho: Teleported branquinho to zeboi]
+[02:06:49] [Server thread/WARN]: branquinho moved too quickly! 15119.899402195593,-16.926735175193706,15099.252207937054
+[02:06:55] [Server thread/INFO]: [BurtiZ: Teleported BurtiZ to branquinho]
+[02:06:55] [Server thread/WARN]: BurtiZ moved too quickly! 15130.084095319236,-17.273418593798162,15097.01719602021
+[02:06:57] [Server thread/INFO]: branquinho was slain by Guardian
+[02:07:01] [Server thread/INFO]: [branquinho: Teleported branquinho to zeboi]
+[02:07:01] [Server thread/WARN]: branquinho moved too quickly! 14768.615990377753,-7.926735175193706,14931.788837313868
+[02:07:09] [Server thread/INFO]: [BurtiZ: Teleported BurtiZ to zeboi]
+[02:07:09] [Server thread/WARN]: BurtiZ moved too quickly! 14.976045480123503,3.407933920292436,-22.867660628980957
+[02:07:15] [Server thread/INFO]: [BurtiZ: Teleported BurtiZ to galopes]
+[02:07:15] [Server thread/WARN]: BurtiZ moved too quickly! 116.16715725905487,4.908520719903869,65.02256173598471
+[02:07:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3020ms or 60 ticks behind
+[02:07:55] [Server thread/INFO]: branquinho was killed by Guardian using magic
+[02:08:06] [Server thread/INFO]: [branquinho: Teleported branquinho to 9812.5, 80.0, -19282.5]
+[02:08:06] [Server thread/WARN]: branquinho moved too quickly! 9567.232236535414,11.0,-19335.64224472043
+[02:08:10] [Server thread/INFO]: <BurtiZ> sao 3
+[02:08:10] [Server thread/WARN]: zeboi moved wrongly!
+[02:08:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[02:08:19] [Server thread/INFO]: zeboi was killed by Guardian using magic
+[02:08:20] [Server thread/INFO]: [branquinho: Teleported branquinho to zeboi]
+[02:08:20] [Server thread/WARN]: branquinho moved too quickly! 5266.189257973838,-9.986893524695738,34333.842215448254
+[02:08:29] [Server thread/INFO]: [zeboi: Teleported zeboi to branquinho]
+[02:08:42] [Server thread/INFO]: MeNEIzes drowned
+[02:08:46] [Server thread/INFO]: branquinho was slain by Guardian
+[02:08:46] [Server thread/INFO]: zeboi was slain by Guardian
+[02:08:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[02:08:50] [Server thread/INFO]: [branquinho: Teleported branquinho to zeboi]
+[02:08:50] [Server thread/WARN]: branquinho moved too quickly! 81.350086157884,-3.0,-72.51951874847073
+[02:08:54] [Server thread/INFO]: [BurtiZ: Teleported BurtiZ to zeboi]
+[02:08:54] [Server thread/WARN]: BurtiZ moved too quickly! -14842.296801473904,-2.0,-15070.454655130427
+[02:08:57] [Server thread/INFO]: [MeNEIzes: Set the weather to clear]
+[02:09:02] [Server thread/INFO]: [MeNEIzes: Teleported MeNEIzes to branquinho]
+[02:09:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3908ms or 78 ticks behind
+[02:09:15] [Server thread/INFO]: [branquinho: Teleported branquinho to galopes]
+[02:09:15] [Server thread/WARN]: Fetching packet for removed entity akw['Experience Orb'/59561, l='world', x=15223.21, y=61.88, z=15176.25]
+[02:09:22] [Server thread/INFO]: [zeboi: Teleported zeboi to branquinho]
+[02:09:34] [Server thread/INFO]: [branquinho: Summoned new Creeper]
+[02:09:36] [Server thread/INFO]: branquinho was blown up by Creeper
+[02:09:42] [Server thread/INFO]: [branquinho: Teleported branquinho to galopes]
+[02:09:42] [Server thread/WARN]: branquinho moved too quickly! 14979.30178947785,-6.836713275463211,15131.607810933556
+[02:09:48] [Server thread/INFO]: zeboi drowned whilst trying to escape Drowned
+[02:09:48] [Server thread/INFO]: [branquinho: Teleported branquinho to zeboi]
+[02:09:53] [Server thread/INFO]: [zeboi: Teleported zeboi to branquinho]
+[02:10:00] [Server thread/INFO]: [MeNEIzes: Teleported MeNEIzes to branquinho]
+[02:10:14] [Server thread/INFO]: branquinho drowned
+[02:10:15] [Server thread/INFO]: galopes was impaled by Drowned
+[02:10:18] [Server thread/INFO]: [BurtiZ: Teleported BurtiZ to branquinho]
+[02:10:18] [Server thread/WARN]: BurtiZ moved too quickly! -65.69019047852117,6.0,84.1834880321297
+[02:10:21] [Server thread/INFO]: zeboi drowned
+[02:10:22] [Server thread/INFO]: [branquinho: Teleported branquinho to zeboi]
+[02:10:22] [Server thread/WARN]: branquinho moved too quickly! 14957.10591110164,-22.0,15128.920881568001
+[02:10:23] [Server thread/INFO]: [galopes: Teleported galopes to zeboi]
+[02:10:26] [Server thread/INFO]: [zeboi: Teleported zeboi to branquinho]
+[02:10:27] [Server thread/INFO]: [BurtiZ: Teleported BurtiZ to zeboi]
+[02:10:30] [Server thread/INFO]: [galopes: Teleported galopes to branquinho]
+[02:10:51] [Server thread/INFO]: MeNEIzes was impaled by Drowned
+[02:10:51] [Server thread/INFO]: branquinho drowned
+[02:10:53] [Server thread/INFO]: BurtiZ drowned
+[02:10:53] [Server thread/INFO]: zeboi drowned
+[02:10:56] [Server thread/INFO]: [branquinho: Teleported branquinho to zeboi]
+[02:10:56] [Server thread/INFO]: [zeboi: Teleported zeboi to branquinho]
+[02:10:58] [Server thread/INFO]: [MeNEIzes: Teleported MeNEIzes to galopes]
+[02:10:59] [Server thread/INFO]: [branquinho: Teleported branquinho to MeNEIzes]
+[02:10:59] [Server thread/WARN]: branquinho moved too quickly! 14889.437746143134,-3.1881607700998345,15186.689634209135
+[02:11:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[02:11:01] [Server thread/INFO]: [zeboi: Teleported zeboi to branquinho]
+[02:11:01] [Server thread/INFO]: galopes was impaled by Drowned
+[02:11:07] [Server thread/INFO]: [BurtiZ: Teleported BurtiZ to zeboi]
+[02:11:07] [Server thread/INFO]: [galopes: Teleported galopes to MeNEIzes]
+[02:11:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2609ms or 52 ticks behind
+[02:11:30] [Server thread/INFO]: branquinho drowned
+[02:11:32] [Server thread/INFO]: zeboi drowned
+[02:11:33] [Server thread/INFO]: MeNEIzes drowned whilst trying to escape Drowned
+[02:11:37] [Server thread/INFO]: BurtiZ drowned
+[02:11:37] [Server thread/INFO]: [zeboi: Teleported zeboi to MeNEIzes]
+[02:11:40] [Server thread/INFO]: [branquinho: Teleported branquinho to galopes]
+[02:11:40] [Server thread/WARN]: branquinho moved too quickly! 14978.745061622529,-5.535798530410915,15116.818160979687
+[02:11:45] [Server thread/INFO]: [zeboi: Teleported zeboi to galopes]
+[02:11:58] [Server thread/INFO]: galopes drowned whilst trying to escape Drowned
+[02:12:07] [Server thread/INFO]: branquinho drowned
+[02:12:07] [Server thread/INFO]: zeboi was impaled by Drowned
+[02:12:12] [Server thread/INFO]: [zeboi: Teleported zeboi to branquinho]
+[02:12:14] [Server thread/INFO]: [branquinho: Teleported branquinho to MeNEIzes]
+[02:12:18] [Server thread/INFO]: [zeboi: Teleported zeboi to branquinho]
+[02:12:18] [Server thread/WARN]: zeboi moved too quickly! 90.15091495503177,4.0,-76.71708676689298
+[02:12:24] [Server thread/INFO]: [galopes: Teleported galopes to MeNEIzes]
+[02:12:26] [Server thread/INFO]: [zeboi: Teleported zeboi to galopes]
+[02:12:38] [Server thread/INFO]: [MeNEIzes: Teleported MeNEIzes to galopes]
+[02:12:54] [Server thread/INFO]: <BurtiZ> tenho mapa de tesouro
+[02:13:15] [Server thread/INFO]: [BurtiZ: Teleported BurtiZ to zeboi]
+[02:13:15] [Server thread/WARN]: BurtiZ moved too quickly! 99.26379063810518,-3.0,-89.24543313650712
+[02:14:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3031ms or 60 ticks behind
+[02:14:31] [Server thread/INFO]: <BurtiZ> para q serve o mapa de tesouro??
+[02:14:46] [Server thread/INFO]: [branquinho: Made zeboi no longer a server operator]
+[02:14:49] [Server thread/INFO]: [branquinho: Teleported zeboi to branquinho]
+[02:14:51] [Server thread/INFO]: [branquinho: Teleported branquinho to MeNEIzes]
+[02:14:51] [Server thread/WARN]: branquinho moved too quickly! -7.629992449890381,-5.0,-31.433045931056263
+[02:14:53] [Server thread/INFO]: [MeNEIzes: Set own game mode to Creative Mode]
+[02:15:08] [Server thread/INFO]: [MeNEIzes: Teleported MeNEIzes to branquinho]
+[02:15:32] [Server thread/INFO]: [galopes: Teleported galopes to branquinho]
+[02:15:37] [Server thread/INFO]: [branquinho: Made zeboi a server operator]
+[02:15:41] [Server thread/INFO]: [branquinho: Made MeNEIzes no longer a server operator]
+[02:16:06] [Server thread/INFO]: [branquinho: Made MeNEIzes a server operator]
+[02:16:15] [Server thread/INFO]: [branquinho: Set the time to 1000]
+[02:16:21] [Server thread/INFO]: [MeNEIzes: Set the weather to clear]
+[02:16:34] [Server thread/INFO]: BurtiZ has made the advancement [Fishy Business]
+[02:16:40] [Server thread/INFO]: [branquinho: Teleported branquinho to galopes]
+[02:16:40] [Server thread/WARN]: branquinho moved too quickly! -15.533574576544595,-5.0,28.597507065987237
+[02:16:47] [Server thread/INFO]: <BurtiZ> quem tirou a lareira??
+[02:16:52] [Server thread/INFO]: [zeboi: Teleported zeboi to galopes]
+[02:16:52] [Server thread/WARN]: zeboi moved too quickly! -28.63959561956767,-6.0,9.51864535964988
+[02:16:57] [Server thread/INFO]: [MeNEIzes: Teleported MeNEIzes to galopes]
+[02:17:19] [Server thread/INFO]: <BurtiZ> a lareira??
+[02:17:23] [Server thread/INFO]: <BurtiZ> q tava aqui fora
+[02:17:31] [Server thread/INFO]: <BurtiZ> quero assar peixe
+[02:18:26] [Server thread/INFO]: [MeNEIzes: Teleported MeNEIzes to 15000.5, 64.0, 15000.5]
+[02:19:04] [Server thread/INFO]: galopes lost connection: Disconnected
+[02:19:04] [Server thread/INFO]: galopes left the game
+[02:19:10] [Server thread/INFO]: <BurtiZ> o mapa carlho
+[02:19:19] [Server thread/INFO]: <BurtiZ> como se encontra o tesouro
+[02:19:23] [Server thread/INFO]: <BurtiZ> eu tenho 1 tb
+[02:19:35] [Server thread/WARN]: MeNEIzes moved too quickly! 4.755484526249347,2.782135351569117,-8.472930003707006
+[02:19:36] [Server thread/WARN]: MeNEIzes moved too quickly! 4.528125297392762,-8.015515675971805,-9.793849070822034
+[02:19:38] [Server thread/INFO]: <BurtiZ> tb tenho pina
+[02:19:49] [Server thread/INFO]: <BurtiZ> bora fazer isso
+[02:20:36] [Server thread/WARN]: MeNEIzes moved too quickly! -4.232984266443964,6.000000238418579,-7.376581267006259
+[02:20:41] [Server thread/WARN]: MeNEIzes moved too quickly! 6.107485533571889,0.0,8.159199670284579
+[02:20:42] [Server thread/INFO]: <BurtiZ> dei te papel
+[02:20:55] [Server thread/WARN]: MeNEIzes moved too quickly! 4.725019528663324,-5.97376364109688,7.29452627885621
+[02:21:44] [Server thread/WARN]: MeNEIzes moved too quickly! -7.278585070824192,3.1909013491950162,6.254272483269233
+[02:21:47] [Server thread/WARN]: MeNEIzes moved too quickly! 0.0,-11.573924902726901,0.0
+[02:21:54] [Server thread/INFO]: [MeNEIzes: Teleported MeNEIzes to branquinho]
+[02:22:43] [Server thread/INFO]: [branquinho: Set the time to 1000]
+[02:22:43] [Server thread/INFO]: branquinho was blown up by Creeper
+[02:23:07] [Server thread/WARN]: MeNEIzes moved too quickly! -1.099143768738827,0.0,10.417657142083142
+[02:23:28] [Server thread/INFO]: [BurtiZ: Teleported BurtiZ to zeboi]
+[02:23:38] [Server thread/INFO]: [BurtiZ: Teleported BurtiZ to branquinho]
+[02:23:38] [Server thread/WARN]: BurtiZ moved too quickly! 18.927953126715465,2.0,6.129949588123676
+[02:23:38] [Server thread/WARN]: BurtiZ moved too quickly! 18.927953126715465,2.0,6.129949588123676
+[02:24:21] [Server thread/INFO]: [MeNEIzes: Teleported MeNEIzes to 30000.5, 87.92508874266055, 30000.5]
+[02:24:32] [Server thread/INFO]: <BurtiZ> bora agora
+[02:24:37] [Server thread/INFO]: <BurtiZ> quero o tesouro
+[02:24:38] [Server thread/INFO]: [MeNEIzes: Teleported branquinho to MeNEIzes]
+[02:24:57] [Server thread/INFO]: [MeNEIzes: Summoned new Ender Dragon]
+[02:25:04] [Server thread/INFO]: [zeboi: Teleported zeboi to MeNEIzes]
+[02:25:11] [Server thread/INFO]: [branquinho: Teleported branquinho to MeNEIzes]
+[02:25:11] [Server thread/WARN]: branquinho moved too quickly! 37.386912291611225,35.96826435226564,5.573123383270286
+[02:25:11] [Server thread/WARN]: branquinho moved too quickly! 37.386912291611225,35.96826435226564,5.573123383270286
+[02:25:21] [Server thread/INFO]: [zeboi: Teleported zeboi to branquinho]
+[02:25:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[02:25:31] [Server thread/INFO]: [MeNEIzes: Set branquinho's game mode to Creative Mode]
+[02:25:32] [Server thread/INFO]: [branquinho: Summoned new Elder Guardian]
+[02:25:36] [Server thread/WARN]: MeNEIzes moved too quickly! 7.988504243094212,6.114600035728174,0.14556781224382576
+[02:25:42] [Server thread/INFO]: [zeboi: Teleported zeboi to BurtiZ]
+[02:25:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2897ms or 57 ticks behind
+[02:25:55] [Server thread/INFO]: [branquinho: Teleported branquinho to BurtiZ]
+[02:25:55] [Server thread/WARN]: branquinho moved too quickly! -29729.774211688524,4.9323797545671795,-30032.51793873058
+[02:25:57] [Server thread/INFO]: [MeNEIzes: Teleported MeNEIzes to zeboi]
+[02:26:04] [Server thread/INFO]: [MeNEIzes: Set own game mode to Survival Mode]
+[02:26:08] [Server thread/INFO]: <BurtiZ> façam a colheita carlho
+[02:26:14] [Server thread/INFO]: [branquinho: Set the time to 1000]
+[02:27:02] [Server thread/INFO]: [MeNEIzes: Set branquinho's game mode to Survival Mode]
+[02:27:43] [Server thread/INFO]: [MeNEIzes: Set the weather to clear]
+[02:27:56] [Server thread/INFO]: <BurtiZ> amanha vamos
+[02:29:40] [Server thread/INFO]: <BurtiZ> rtenho ender pearl
+[02:29:43] [Server thread/INFO]: branquinho has made the advancement [We Need to Go Deeper]
+[02:30:10] [Server thread/INFO]: <BurtiZ> vou bazar
+[02:30:15] [Server thread/INFO]: <BurtiZ> ptt pessoais
+[02:30:20] [Server thread/INFO]: BurtiZ lost connection: Disconnected
+[02:30:20] [Server thread/INFO]: BurtiZ left the game
+[02:30:23] [Server thread/INFO]: branquinho tried to swim in lava
+[02:30:25] [Server thread/INFO]: MeNEIzes lost connection: Disconnected
+[02:30:25] [Server thread/INFO]: MeNEIzes left the game
+[02:30:54] [Server thread/INFO]: [branquinho: Summoned new Lightning Bolt]
+[02:31:05] [Server thread/INFO]: [branquinho: Summoned new Lightning Bolt]
+[02:31:27] [Server thread/INFO]: [branquinho: Summoned new Lightning Bolt]
+[02:31:38] [Server thread/INFO]: branquinho lost connection: Disconnected
+[02:31:38] [Server thread/INFO]: branquinho left the game
+[02:31:41] [Server thread/INFO]: zeboi lost connection: Disconnected
+[02:31:41] [Server thread/INFO]: zeboi left the game

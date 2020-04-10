@@ -24,6 +24,12 @@
     "bypassesPlayerLimit": false
   },
   {
+    "uuid": "10f1f234-e767-30bc-b670-543d9e2113da",
+    "name": "by",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "3962d025-894a-305d-a0ff-6a996f2ec584",
     "name": "galopes",
     "level": 4,
